@@ -4,7 +4,7 @@ source $KSROOT/scripts/base.sh
 eval `dbus export ss`
 alias echo_date='echo 【$(date +%Y年%m月%d日\ %X)】:'
 url_back="https://koolshare.ngrok.wang/maintain_files"
-url_main="https://raw.githubusercontent.com/hq450/fancyss/master/rules/"
+url_main="https://raw.githubusercontent.com/leozhang2018/lede-shadowsocks-x64/rules/"
 # version dectet
 version_gfwlist1=$(cat $KSROOT/ss/rules/version | sed -n 1p | sed 's/ /\n/g'| sed -n 1p)
 version_chnroute1=$(cat $KSROOT/ss/rules/version | sed -n 2p | sed 's/ /\n/g'| sed -n 1p)
