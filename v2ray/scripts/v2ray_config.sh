@@ -907,7 +907,6 @@ check_update_v2ray(){
 }
 #=====================
 update_rule(){
-	url_back="https://koolshare.ngrok.wang/maintain_files"
 	url_main="https://raw.githubusercontent.com/leozhang2018/lede-shadowsocks-x64/master/rules/"
 	# version dectet
 	version_gfwlist1=$(cat $KSROOT/v2ray/version | sed -n 1p | sed 's/ /\n/g'| sed -n 1p)
