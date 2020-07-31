@@ -854,7 +854,7 @@ detect_ss(){
 	fi
 }
 get_latest_release() {
-  curl --silent "https://api.github.com/repos/$1/releases/latest" | grep '"tag_name":' | sed -E 's/.*"([^"]+)".*/\1/'                                    
+  curl --silent "https://api.github.com/repos/$1/releases/latest" | jq -r '.tag_name'                                    
 }
 check_update_v2ray(){
 	local lastver oldver
