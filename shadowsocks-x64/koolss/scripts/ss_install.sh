@@ -3,6 +3,8 @@ export KSROOT=/koolshare
 source $KSROOT/scripts/base.sh
 eval `dbus export ss`
 alias echo_date='echo 【$(date +%Y年%m月%d日\ %X)】:'
+fwlocal=`cat /etc/openwrt_release|grep DISTRIB_RELEASE|cut -d "'" -f 2|cut -d "V" -f 2`
+checkversion=`versioncmp $fwlocal 2.30`
 
 # 判断路由架构和平台
 case $(uname -m) in
@@ -75,9 +77,7 @@ rm -rf $KSROOT/bin/Pcap_DNSProxy >/dev/null 2>&1
 rm -rf $KSROOT/bin/dnscrypt-proxy >/dev/null 2>&1
 rm -rf $KSROOT/bin/dns2socks >/dev/null 2>&1
 rm -rf $KSROOT/bin/chinadns >/dev/null 2>&1
-rm -rf $KSROOT/bin/resolveip >/dev/null 2>&1
-rm -rf $KSROOT/bin/busybox >/dev/null 2>&1
-rm -rf $KSROOT/bin/ps >/dev/null 2>&1
+rm -rf $KSROOT/bin/v2ray-plugin >/dev/null 2>&1
 rm -rf /usr/lib/lua/luci/controller/sadog.lua >/dev/null 2>&1
 [ -f "/koolshare/webs/files/koolss.tar.gz" ] && rm -rf /koolshare/webs/files/koolss.tar.gz
 
@@ -87,7 +87,36 @@ sed -i '/sspcapupdate/d' /etc/crontabs/root >/dev/null 2>&1
 # 复制文件
 cd /tmp
 logger "koolss: 复制安装包内的文件到路由器..."
-cp -rf /tmp/koolss/bin/* $KSROOT/bin/
+if [ "$checkversion" == "1" ]; then
+	logger "koolss: 安装旧版本插件..."
+	cp -rf /tmp/koolss/bin/cdns1 $KSROOT/bin/cdns
+	cp -rf /tmp/koolss/bin/chinadns1 $KSROOT/bin/chinadns
+	cp -rf /tmp/koolss/bin/dns2socks1 $KSROOT/bin/dns2socks
+	cp -rf /tmp/koolss/bin/ss-tunnel1 $KSROOT/bin/ss-tunnel
+	cp -rf /tmp/koolss/bin/ss-local1 $KSROOT/bin/ss-local
+	cp -rf /tmp/koolss/bin/ss-redir1 $KSROOT/bin/ss-redir
+	cp -rf /tmp/koolss/bin/ssr-local1 $KSROOT/bin/ssr-local
+	cp -rf /tmp/koolss/bin/ssr-redir1 $KSROOT/bin/ssr-redir
+	cp -rf /tmp/koolss/bin/Pcap_DNSProxy1 $KSROOT/bin/Pcap_DNSProxy
+else
+	logger "koolss: 安装新版插件..."
+	cp -rf /tmp/koolss/bin/cdns $KSROOT/bin/cdns
+	cp -rf /tmp/koolss/bin/chinadns $KSROOT/bin/chinadns
+	cp -rf /tmp/koolss/bin/dns2socks $KSROOT/bin/dns2socks
+	cp -rf /tmp/koolss/bin/ss-tunnel $KSROOT/bin/ss-tunnel
+	cp -rf /tmp/koolss/bin/ss-local $KSROOT/bin/ss-local
+	cp -rf /tmp/koolss/bin/ss-redir $KSROOT/bin/ss-redir
+	cp -rf /tmp/koolss/bin/ssr-local $KSROOT/bin/ssr-local
+	cp -rf /tmp/koolss/bin/ssr-redir $KSROOT/bin/ssr-redir
+	cp -rf /tmp/koolss/bin/Pcap_DNSProxy $KSROOT/bin/
+fi
+cp -rf /tmp/koolss/bin/chinadns2 $KSROOT/bin/
+cp -rf /tmp/koolss/bin/dnscrypt-proxy $KSROOT/bin/
+cp -rf /tmp/koolss/bin/haproxy $KSROOT/bin/
+cp -rf /tmp/koolss/bin/kcpclient $KSROOT/bin/
+cp -rf /tmp/koolss/bin/obfs-local $KSROOT/bin/
+cp -rf /tmp/koolss/bin/pdnsd $KSROOT/bin/
+cp -rf /tmp/koolss/bin/v2ray-plugin $KSROOT/bin/
 cp -rf /tmp/koolss/ss/* $KSROOT/ss/
 cp -rf /tmp/koolss/scripts/* $KSROOT/scripts/
 cp -rf /tmp/koolss/init.d/* $KSROOT/init.d/

@@ -1,8 +1,6 @@
 #!/bin/sh
-
-# shadowsocks script for Openwrt/LEDE X64 by fw867
-
-source /koolshare/scripts/base.sh
+export KSROOT=/koolshare
+source $KSROOT/scripts/base.sh
 alias echo_date='echo 【$(date +%Y年%m月%d日\ %X)】:'
 eval `dbus export ss`
 LOG_FILE=/tmp/upload/ss_log.txt
