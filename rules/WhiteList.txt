@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-08-14
+## Last update: 2020-08-15
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -5500,6 +5500,7 @@
 .*\b52pk\.net
 .*\b52pkvr\.com
 .*\b52playpc\.com
+.*\b52podcast\.com
 .*\b52pojie\.com
 .*\b52ppt\.com
 .*\b52print\.com
@@ -11541,7 +11542,6 @@
 .*\bb7l\.cc
 .*\bb8yx\.com
 .*\bb91\.com
-.*\bb997gs0d\.icu
 .*\bba-li\.com
 .*\bba125\.com
 .*\bbaaidu\.com
@@ -11694,8 +11694,6 @@
 .*\bbaidutt\.com
 .*\bbaiduux\.com
 .*\bbaiduv\.com
-.*\bbaiduvip\.life
-.*\bbaiduvip\.space
 .*\bbaiduvv\.com
 .*\bbaiduwebgame\.com
 .*\bbaiduweixin\.xyz
@@ -11882,6 +11880,7 @@
 .*\bbakaawt\.com
 .*\bbakaxl\.com
 .*\bbakbitionb\.com
+.*\bbaklib\.com
 .*\bbakuaiwu\.com
 .*\bbakumon\.me
 .*\bbala\.cc
@@ -19171,7 +19170,6 @@
 .*\bcpass\.com
 .*\bcpatrk\.net
 .*\bcpbao\.com
-.*\bcpc-hpc\.com
 .*\bcpc\.cc
 .*\bcpcccac\.com
 .*\bcpcni\.net
@@ -21236,6 +21234,7 @@
 .*\bdftq\.net
 .*\bdfv5\.net
 .*\bdfxq\.com
+.*\bdfxwdc\.com
 .*\bdfyanyi\.com
 .*\bdfyapp\.com
 .*\bdfyl-luxgen\.com
@@ -25176,7 +25175,6 @@
 .*\bfctsq\.com
 .*\bfcvvip\.com
 .*\bfcw013\.com
-.*\bfcwxcbs\.com
 .*\bfcxjiuyuan\.com
 .*\bfcxxh\.org
 .*\bfcxzb\.com
@@ -26658,7 +26656,6 @@
 .*\bg1c5\.com
 .*\bg1d\.net
 .*\bg1f5\.com
-.*\bg1kt\.com
 .*\bg207\.com
 .*\bg2b2b\.com
 .*\bg2g1\.com
@@ -29098,7 +29095,6 @@
 .*\bh0758\.net
 .*\bh0f\.me
 .*\bh1bz\.com
-.*\bh1iohpwc\.com
 .*\bh231\.com
 .*\bh2ero\.com
 .*\bh2ex\.com
@@ -30501,7 +30497,6 @@
 .*\bhenan-gps\.com
 .*\bhenan100\.com
 .*\bhenanart\.com
-.*\bhenanchengshizhaoming\.com
 .*\bhenanfucai\.com
 .*\bhenangeli\.com
 .*\bhenanjianling\.com
@@ -30903,6 +30898,7 @@
 .*\bhimiku\.com
 .*\bhimofi\.com
 .*\bhimovie\.net
+.*\bhimuzik\.net
 .*\bhimy2\.com
 .*\bhinabian\.com
 .*\bhinavi\.net
@@ -34176,7 +34172,6 @@
 .*\bimipy\.com
 .*\bimiqian\.com
 .*\bimjiayin\.com
-.*\bimjtv\.com
 .*\bimkerwin\.com
 .*\bimkevinyang\.com
 .*\bimkira\.com
@@ -46471,7 +46466,6 @@
 .*\bnj-marathon\.org
 .*\bnj12333\.com
 .*\bnjbaisou\.com
-.*\bnjbeisd\.com
 .*\bnjbys\.com
 .*\bnjc100\.com
 .*\bnjcdata\.com
@@ -46640,7 +46634,6 @@
 .*\bnnpma\.com
 .*\bnns\.loan
 .*\bnnsc6\.com
-.*\bnnsjdd\.com
 .*\bnnsky\.com
 .*\bnnszwl\.com
 .*\bnntlj\.com
@@ -55328,7 +55321,6 @@
 .*\bsm96596\.com
 .*\bsmallk\.net
 .*\bsmallpdfer\.com
-.*\bsmallseashell\.com
 .*\bsmallstep\.vip
 .*\bsmallxu\.me
 .*\bsmarch\.com
@@ -56843,7 +56835,6 @@
 .*\bsxjagc\.com
 .*\bsxjcylbx\.com
 .*\bsxjinfang\.com
-.*\bsxjqdz\.com
 .*\bsxjzxww\.com
 .*\bsxkzxt\.com
 .*\bsxlcdn\.com
@@ -60130,6 +60121,7 @@
 .*\btztusi\.com
 .*\btzxgzk\.com
 .*\btzxwzx\.com
+.*\btzye123\.com
 .*\btzyg\.org
 .*\btzylczy\.net
 .*\btzysbwg\.com
@@ -62438,7 +62430,6 @@
 .*\bwebqxs\.com
 .*\bwebrtc\.win
 .*\bwebs\.so
-.*\bwebsaru\.net
 .*\bwebsbook\.com
 .*\bwebseo9\.com
 .*\bwebshao\.com
@@ -66203,7 +66194,6 @@
 .*\bxingkbjm\.com
 .*\bxingkeduo\.com
 .*\bxingkong\.com
-.*\bxingkong\.us
 .*\bxingkongbook\.com
 .*\bxingkongmt\.com
 .*\bxingkongweishi\.net
@@ -67492,6 +67482,7 @@
 .*\bxwbank\.com
 .*\bxwcms\.net
 .*\bxwcool\.com
+.*\bxwdsp\.com
 .*\bxwei\.tv
 .*\bxwhb\.com
 .*\bxwhb\.net
@@ -68506,6 +68497,7 @@
 .*\byhzml\.com
 .*\byhzuche\.com
 .*\byhzy365\.com
+.*\byi-it\.com
 .*\byi-jy\.com
 .*\byi-programmer\.com
 .*\byi-you\.org
@@ -69815,7 +69807,6 @@
 .*\byouzijie\.com
 .*\byouziku\.com
 .*\byouziqk\.com
-.*\byouziyue\.com
 .*\byouzu\.com
 .*\byovisun\.com
 .*\byovocloud\.com
