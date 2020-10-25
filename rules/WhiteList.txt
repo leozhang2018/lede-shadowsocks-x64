@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-10-24
+## Last update: 2020-10-25
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -336,7 +336,6 @@
 .*\b027website\.com
 .*\b027wei\.com
 .*\b027xf\.com
-.*\b027xinda\.com
 .*\b027yunwei\.com
 .*\b027yx\.com
 .*\b027zhan\.com
@@ -1599,7 +1598,6 @@
 .*\b13973\.com
 .*\b1398\.org
 .*\b139cai\.com
-.*\b139cm\.com
 .*\b139down\.com
 .*\b139js\.com
 .*\b139life\.com
@@ -5483,7 +5481,6 @@
 .*\b52yawa\.com
 .*\b52yh\.com
 .*\b52yifei\.com
-.*\b52yingtao\.com
 .*\b52ykjob\.com
 .*\b52youju\.com
 .*\b52youpiao\.com
@@ -6838,7 +6835,6 @@
 .*\b7580\.ltd
 .*\b758dsj\.com
 .*\b75cache\.com
-.*\b75cdn\.com
 .*\b75n474\.com
 .*\b75team\.com
 .*\b75xyx\.com
@@ -13704,7 +13700,6 @@
 .*\bbooea\.com
 .*\bbooeoo\.com
 .*\bboohee\.com
-.*\bbook110\.net
 .*\bbook118\.com
 .*\bbook1234\.com
 .*\bbook365\.net
@@ -19049,7 +19044,6 @@
 .*\bcqhansa\.com
 .*\bcqhaoya\.com
 .*\bcqhcbk\.com
-.*\bcqhdx\.com
 .*\bcqhhr2\.com
 .*\bcqhimalayanky\.com
 .*\bcqhkcdns\.com
@@ -24100,7 +24094,6 @@
 .*\bethern\.me
 .*\bethfans\.org
 .*\betiantian\.com
-.*\betiantian\.info
 .*\betiantian\.net
 .*\betiantian\.org
 .*\betiaoliao\.com
@@ -28706,7 +28699,6 @@
 .*\bgzxict\.com
 .*\bgzxingnan\.com
 .*\bgzxjhwd\.com
-.*\bgzxlxyl\.com
 .*\bgzxszf\.com
 .*\bgzxtsg\.com
 .*\bgzxwtjy\.com
@@ -33256,6 +33248,7 @@
 .*\biefans\.net
 .*\bieforex\.com
 .*\biegee\.net
+.*\biegourl\.com
 .*\bieguan\.com
 .*\biejiu\.com
 .*\bieliulanqi\.com
@@ -33594,6 +33587,7 @@
 .*\bikonfx\.com
 .*\bikongjian\.com
 .*\bikongjun\.com
+.*\bikonke\.com
 .*\bikoo8\.com
 .*\bikozn\.com
 .*\bikrtv\.com
@@ -34794,6 +34788,7 @@
 .*\biwhr\.com
 .*\biwin10\.cc
 .*\biwin10\.com
+.*\biwin10\.net
 .*\biwingchina\.com
 .*\biwiscloud\.com
 .*\biwjw\.com
@@ -38640,6 +38635,7 @@
 .*\bkongzhong\.com
 .*\bkonka\.com
 .*\bkonkamobile\.com
+.*\bkonkek2\.com
 .*\bkonlan\.com
 .*\bkonlan\.org
 .*\bkonotaku\.com
@@ -40564,7 +40560,6 @@
 .*\bliminwang\.com
 .*\blimless\.com
 .*\blimoer\.cc
-.*\blimpiaclub\.com
 .*\blimufang\.com
 .*\blin-php\.com
 .*\blinakesi\.com
@@ -42718,6 +42713,7 @@
 .*\bmastertimes\.net
 .*\bmastodonhub\.com
 .*\bmastudio\.org
+.*\bmasuit\.com
 .*\bmasyi\.com
 .*\bmat-test\.com
 .*\bmatao\.com
@@ -51716,6 +51712,8 @@
 .*\brumyvideo\.com
 .*\brunbingoo\.com
 .*\bruncome\.com
+.*\brunde666\.net
+.*\brundejy\.com
 .*\brundongex\.com
 .*\brunexception\.com
 .*\brunforrun\.com
@@ -51986,6 +51984,7 @@
 .*\bsanen\.online
 .*\bsanerer\.com
 .*\bsanfen\.me
+.*\bsanfen666\.com
 .*\bsanfengyun\.com
 .*\bsanfo\.com
 .*\bsanfu\.com
@@ -52201,6 +52200,7 @@
 .*\bscgis\.net
 .*\bscgra\.com
 .*\bscgzzg\.com
+.*\bschengle\.com
 .*\bschezi\.com
 .*\bschkgl\.com
 .*\bschneidercampus\.com
@@ -53290,6 +53290,7 @@
 .*\bshenxingnet\.com
 .*\bshenyangoffice\.com
 .*\bshenyecg\.com
+.*\bshenyehd\.com
 .*\bshenyongxiang\.com
 .*\bshenyou\.tv
 .*\bshenyunlaw\.com
@@ -58834,7 +58835,6 @@
 .*\bttpp\.com
 .*\bttppq\.com
 .*\bttq\.com
-.*\bttqfidz\.site
 .*\bttrar\.com
 .*\btts8\.com
 .*\bttsfgyrj\.com
@@ -63852,7 +63852,6 @@
 .*\bwww\.htcvive\.com
 .*\bwww\.ibm\.com
 .*\bwww\.intel\.com
-.*\bwww\.kaspersky\.com
 .*\bwww\.linkedin\.com
 .*\bwww\.microsoft\.com
 .*\bwww\.nike\.com
@@ -65009,6 +65008,7 @@
 .*\bxiaoshijie\.com
 .*\bxiaoshikd\.com
 .*\bxiaoshitou123\.com
+.*\bxiaoshituina\.vip
 .*\bxiaoshoubang\.org
 .*\bxiaoshouhudong\.com
 .*\bxiaoshoukuaifa\.com
@@ -69501,7 +69501,6 @@
 .*\byunda56\.com
 .*\byundaex\.com
 .*\byundaex\.us
-.*\byundaiwei\.com
 .*\byundangan\.com
 .*\byundaohuodong\.com
 .*\byundasys\.com
