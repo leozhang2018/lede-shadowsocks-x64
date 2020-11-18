@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-11-17
+## Last update: 2020-11-18
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -6626,7 +6626,6 @@
 .*\b701sou\.com
 .*\b703804\.com
 .*\b705112\.com
-.*\b705776\.com
 .*\b7068\.cc
 .*\b70689\.com
 .*\b706kj\.com
@@ -13075,7 +13074,6 @@
 .*\bbjkaihua\.net
 .*\bbjkgjlu\.com
 .*\bbjkhzx\.com
-.*\bbjkorea-s\.com
 .*\bbjkrtwl\.com
 .*\bbjl777\.com
 .*\bbjlcs-tech\.com
@@ -27967,7 +27965,6 @@
 .*\bgucunpark\.net
 .*\bgudaiba\.com
 .*\bgudaovision\.com
-.*\bgudaoyufu\.com
 .*\bgudi\.cc
 .*\bguer\.org
 .*\bguestops\.com
@@ -37232,7 +37229,6 @@
 .*\bjxstsz\.com
 .*\bjxsxb\.com
 .*\bjxsxdp\.com
-.*\bjxteacher\.com
 .*\bjxtech\.net
 .*\bjxtobo\.com
 .*\bjxtvshop\.com
@@ -41020,7 +41016,6 @@
 .*\blogooo\.net
 .*\blogopay\.com
 .*\blogoquan\.com
-.*\blogorc\.com
 .*\blogoshe\.com
 .*\blogosheji\.com
 .*\blogosj\.com
@@ -50331,7 +50326,6 @@
 .*\bqwertali\.pw
 .*\bqwertdd\.pw
 .*\bqwertgg\.pw
-.*\bqwertjdh\.pw
 .*\bqwgt\.com
 .*\bqwimm\.com
 .*\bqwolf\.com
@@ -61236,7 +61230,6 @@
 .*\bwduw\.com
 .*\bwdw6\.com
 .*\bwdw88\.com
-.*\bwdwccd\.com
 .*\bwdxmzy\.com
 .*\bwdxsk\.com
 .*\bwdxtub\.com
@@ -68965,6 +68958,7 @@
 .*\byueqi\.com
 .*\byueqiweixiu\.com
 .*\byueqixuexi\.com
+.*\byueque\.com
 .*\byuer\.com
 .*\byuerbao\.com
 .*\byueru\.com

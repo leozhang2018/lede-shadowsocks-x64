@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2020-11-17
+## Last update: 2020-11-18
 
 
 Server=/0-100.com/
@@ -6626,7 +6626,6 @@ Server=/700store.com/
 Server=/701sou.com/
 Server=/703804.com/
 Server=/705112.com/
-Server=/705776.com/
 Server=/7068.cc/
 Server=/70689.com/
 Server=/706kj.com/
@@ -13075,7 +13074,6 @@ Server=/bjkaihua.com/
 Server=/bjkaihua.net/
 Server=/bjkgjlu.com/
 Server=/bjkhzx.com/
-Server=/bjkorea-s.com/
 Server=/bjkrtwl.com/
 Server=/bjl777.com/
 Server=/bjlcs-tech.com/
@@ -27967,7 +27965,6 @@ Server=/gucun.info/
 Server=/gucunpark.net/
 Server=/gudaiba.com/
 Server=/gudaovision.com/
-Server=/gudaoyufu.com/
 Server=/gudi.cc/
 Server=/guer.org/
 Server=/guestops.com/
@@ -37232,7 +37229,6 @@ Server=/jxsrfdc.com/
 Server=/jxstsz.com/
 Server=/jxsxb.com/
 Server=/jxsxdp.com/
-Server=/jxteacher.com/
 Server=/jxtech.net/
 Server=/jxtobo.com/
 Server=/jxtvshop.com/
@@ -41020,7 +41016,6 @@ Server=/logonc.com/
 Server=/logooo.net/
 Server=/logopay.com/
 Server=/logoquan.com/
-Server=/logorc.com/
 Server=/logoshe.com/
 Server=/logosheji.com/
 Server=/logosj.com/
@@ -50331,7 +50326,6 @@ Server=/qwdacy.com/
 Server=/qwertali.pw/
 Server=/qwertdd.pw/
 Server=/qwertgg.pw/
-Server=/qwertjdh.pw/
 Server=/qwgt.com/
 Server=/qwimm.com/
 Server=/qwolf.com/
@@ -61236,7 +61230,6 @@ Server=/wdtlfj.com/
 Server=/wduw.com/
 Server=/wdw6.com/
 Server=/wdw88.com/
-Server=/wdwccd.com/
 Server=/wdxmzy.com/
 Server=/wdxsk.com/
 Server=/wdxtub.com/
@@ -68965,6 +68958,7 @@ Server=/yuepinwang.com/
 Server=/yueqi.com/
 Server=/yueqiweixiu.com/
 Server=/yueqixuexi.com/
+Server=/yueque.com/
 Server=/yuer.com/
 Server=/yuerbao.com/
 Server=/yueru.com/
