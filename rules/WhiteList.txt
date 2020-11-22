@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-11-21
+## Last update: 2020-11-22
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -367,6 +367,7 @@
 .*\b02laser\.com
 .*\b02o\.pw
 .*\b02og\.com
+.*\b02shu\.cc
 .*\b02shu\.com
 .*\b02wan\.com
 .*\b02wq\.com
@@ -8051,6 +8052,7 @@
 .*\b93966\.com
 .*\b93bok\.com
 .*\b93cg\.com
+.*\b93eu\.com
 .*\b93hdw9\.com
 .*\b93hui\.com
 .*\b93jiang\.com
@@ -13721,6 +13723,7 @@
 .*\bbrainysite\.com
 .*\bbrand4x4\.com
 .*\bbrandcn\.com
+.*\bbrandtown\.net
 .*\bbrandvista\.com
 .*\bbrandzg\.com
 .*\bbrandzw\.com
@@ -22811,6 +22814,7 @@
 .*\beachnet\.com
 .*\beachsee\.com
 .*\beaeb\.com
+.*\beaes-seari\.com
 .*\beafifaonline2\.com
 .*\beaglexiang\.org
 .*\beahui\.com
@@ -36654,6 +36658,7 @@
 .*\bjsjdrcb\.com
 .*\bjsjdzf\.com
 .*\bjsjinfu\.com
+.*\bjsjjy\.com
 .*\bjsjkx\.com
 .*\bjsjlzxw\.com
 .*\bjsjs\.cc
@@ -37314,6 +37319,7 @@
 .*\bjzgwind\.com
 .*\bjzh\.me
 .*\bjzhfz\.com
+.*\bjzic\.com
 .*\bjzjtop\.com
 .*\bjzkjjt\.com
 .*\bjzkuaiji\.com
@@ -45028,6 +45034,7 @@
 .*\bnbcyl\.com
 .*\bnbdeli\.com
 .*\bnbdeli\.net
+.*\bnbdisco\.com
 .*\bnbdpx\.com
 .*\bnbdskj\.com
 .*\bnbegame\.com
@@ -48188,6 +48195,7 @@
 .*\bpoukao\.com
 .*\bpouyehm\.com
 .*\bpower-bd\.com
+.*\bpower-sensor\.com
 .*\bpowerbibbs\.com
 .*\bpowercdn\.com
 .*\bpowerde\.com
@@ -49987,6 +49995,7 @@
 .*\bqthnews\.com
 .*\bqthosp\.com
 .*\bqtj5\.com
+.*\bqtlcdn\.com
 .*\bqtlcn\.com
 .*\bqtlglb\.com
 .*\bqtlglb\.info
@@ -52940,6 +52949,7 @@
 .*\bshenyou\.tv
 .*\bshenyunlaw\.com
 .*\bshenzan\.com
+.*\bshenzaole\.com
 .*\bshenzhekou\.com
 .*\bshenzhen-world\.com
 .*\bshenzhenair\.com
@@ -61008,6 +61018,7 @@
 .*\bwanzhongcar\.com
 .*\bwanzhouhr\.com
 .*\bwanzhoumo\.com
+.*\bwanzhuang\.com
 .*\bwanzhuanhulian\.com
 .*\bwanzhuanlea\.com
 .*\bwanzhuanmobile\.com
@@ -72364,6 +72375,7 @@
 .*\bzxtyonyou\.com
 .*\bzxtzx\.com
 .*\bzxw51\.com
+.*\bzxwcbj\.com
 .*\bzxwindow\.com
 .*\bzxxk\.com
 .*\bzxxww\.com
