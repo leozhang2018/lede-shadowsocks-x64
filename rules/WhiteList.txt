@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-11-23
+## Last update: 2020-11-24
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -2388,6 +2388,7 @@
 .*\b1shipin\.net
 .*\b1shoucang\.com
 .*\b1sj\.tv
+.*\b1sm23\.com
 .*\b1so\.la
 .*\b1sohu\.com
 .*\b1speaking\.com
@@ -12983,6 +12984,7 @@
 .*\bbjdt360\.com
 .*\bbjeasycom\.com
 .*\bbjepn\.com
+.*\bbjewaytek\.com
 .*\bbjexmail\.com
 .*\bbjfengguang\.com
 .*\bbjffdz\.com
@@ -23955,6 +23957,7 @@
 .*\beui\.cc
 .*\beuibe\.com
 .*\beulike\.com
+.*\beulixos\.com
 .*\beuratwin\.com
 .*\beureka\.name
 .*\beurochinesedaily\.com
@@ -28204,6 +28207,7 @@
 .*\bgxhl\.com
 .*\bgxhma\.com
 .*\bgxhouse\.com
+.*\bgxhxmy88\.com
 .*\bgxhzxw\.com
 .*\bgxiang\.net
 .*\bgxibvc\.net
@@ -32407,7 +32411,6 @@
 .*\bhzzsbbs\.com
 .*\bhzzsdz\.com
 .*\bhzzsfs\.com
-.*\bhzztkt\.com
 .*\bi-27\.name
 .*\bi-520\.net
 .*\bi-ab\.com
@@ -36375,6 +36378,7 @@
 .*\bjomodns\.com
 .*\bjonahome\.net
 .*\bjone\.tech
+.*\bjone\.wang
 .*\bjongta\.com
 .*\bjonllen\.com
 .*\bjonny\.vip
@@ -36593,7 +36597,6 @@
 .*\bjscts\.com
 .*\bjsd\.cc
 .*\bjsdaima\.com
-.*\bjsdpg\.club
 .*\bjsdplaw\.com
 .*\bjsdujuan\.com
 .*\bjsdushi\.net
@@ -44835,6 +44838,7 @@
 .*\bn9cn\.net
 .*\bn9z\.net
 .*\bnaadou\.com
+.*\bnadgrid\.com
 .*\bnadianshi\.com
 .*\bnaew\.org
 .*\bnafanlong\.com
@@ -45548,7 +45552,6 @@
 .*\bniuche\.com
 .*\bniucodata\.com
 .*\bniudai120\.com
-.*\bniudana\.com
 .*\bniudingfeng\.com
 .*\bniug8\.com
 .*\bniugame\.net
@@ -49320,6 +49323,7 @@
 .*\bqinglm\.com
 .*\bqinglue\.net
 .*\bqinglvai\.com
+.*\bqinglvcha\.com
 .*\bqinglvmao\.com
 .*\bqingman\.cc
 .*\bqingmang\.me
@@ -50572,6 +50576,7 @@
 .*\brcss88\.com
 .*\brcw0375\.com
 .*\brcwl\.net
+.*\brcxhhexing\.com
 .*\brcxjsc\.com
 .*\brcyd\.net
 .*\brczp\.org
@@ -55520,6 +55525,7 @@
 .*\bsunwy\.org
 .*\bsunxiaoning\.com
 .*\bsunxinfei\.com
+.*\bsunyansong\.com
 .*\bsunyea\.com
 .*\bsunyet\.com
 .*\bsunyingchao\.com
@@ -59639,6 +59645,7 @@
 .*\buuaa\.net
 .*\buuaoz\.com
 .*\buubookwb\.com
+.*\buuboos\.com
 .*\buucolor\.com
 .*\buudonghua\.com
 .*\buudsp\.com
@@ -64107,7 +64114,6 @@
 .*\bxhmzgbj\.com
 .*\bxhn888\.com
 .*\bxhnews\.net
-.*\bxhomestudio\.org
 .*\bxhood\.net
 .*\bxhostserver\.com
 .*\bxhpfw\.com
@@ -70422,6 +70428,7 @@
 .*\bzhe4000\.com
 .*\bzhe800\.com
 .*\bzhebei\.com
+.*\bzhedakaoyan\.com
 .*\bzhefengle\.com
 .*\bzhehen\.com
 .*\bzhejiangmuseum\.com
