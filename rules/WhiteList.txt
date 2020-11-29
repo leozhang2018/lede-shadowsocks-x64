@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-11-28
+## Last update: 2020-11-29
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -5979,6 +5979,7 @@
 .*\b5ip\.cc
 .*\b5ip9\.com
 .*\b5ipatent\.com
+.*\b5ipkwan\.com
 .*\b5ips\.net
 .*\b5iqiqu\.com
 .*\b5iqukuai\.com
@@ -7264,6 +7265,7 @@
 .*\b83990567\.com
 .*\b83dd\.com
 .*\b83edu\.net
+.*\b83h87d\.com
 .*\b83jie\.com
 .*\b83om\.com
 .*\b84\.com
@@ -30326,6 +30328,7 @@
 .*\bhitfmfans\.com
 .*\bhitgk\.com
 .*\bhitnology\.com
+.*\bhitnslab\.xyz
 .*\bhitokoto\.us
 .*\bhitortoise\.com
 .*\bhitouch\.com
@@ -33494,6 +33497,7 @@
 .*\biminho\.me
 .*\biminisd\.com
 .*\bimipy\.com
+.*\bimiqian\.com
 .*\bimjiayin\.com
 .*\bimkerwin\.com
 .*\bimkevinyang\.com
@@ -41229,6 +41233,7 @@
 .*\blpllol\.com
 .*\blply\.net
 .*\blppz\.com
+.*\blprcx\.com
 .*\blpswz\.com
 .*\blptiyu\.com
 .*\blpwnice\.com
@@ -43988,6 +43993,7 @@
 .*\bmoqikaka\.com
 .*\bmoqilin\.net
 .*\bmoqing\.com
+.*\bmoqipobing\.com
 .*\bmoqu8\.com
 .*\bmoquu\.com
 .*\bmoracoffee\.cc
@@ -59137,6 +59143,7 @@
 .*\bugbb\.com
 .*\bugcar\.com
 .*\bugdtimg\.com
+.*\bugediao\.com
 .*\buggas\.com
 .*\buggd\.com
 .*\bugirls\.tv
