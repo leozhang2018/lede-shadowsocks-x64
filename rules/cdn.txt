@@ -9257,6 +9257,7 @@ aicaicdn.com
 aicaike.com
 aicdn.com
 aicdn2.com
+aicdn4.com
 aichaicp.com
 aichao521.com
 aichaoxing.com
@@ -17457,6 +17458,7 @@ cloudcusersyn.com
 clouddn.com
 clouddream.net
 cloudgap.net
+cloudgertopage.com
 cloudgfw.com
 cloudgfw.net
 cloudglb.com
@@ -21637,6 +21639,7 @@ docs.oracle.com
 docs4dev.com
 docschina.org
 docsou.com
+docsxyz.com
 doctorcom.com
 docx88.com
 doczhi.com
@@ -23794,6 +23797,7 @@ eshangxian.com
 eshanyao.com
 eshenlin.com
 eshimin.com
+eshiyun.info
 eshop-switch.com
 eshopb2c.com
 eshow365.com
@@ -27772,6 +27776,7 @@ gtm-a1b2.com
 gtm-a2b3.com
 gtm-a3b1.com
 gtm-a4b8.com
+gtm-a4b9.com
 gtm-i1d6.com
 gtm-i1d9.com
 gtm.oasisfeng.com
@@ -27952,6 +27957,7 @@ guiji.com
 guijianghu.com
 guijinshu.com
 guijj.com
+guikeyun.com
 guilin.la
 guilinhd.com
 guilinlife.com
@@ -35217,6 +35223,7 @@ jiamengdp.com
 jiamengwoba.com
 jiamiantech.com
 jiaming.pro
+jiaminghi.com
 jiamisoft.com
 jiamofang.net
 jian.net
@@ -38065,7 +38072,6 @@ kindle1688.com
 kindlehub.mobi
 kindlelib.com
 kindlepush.com
-kindsoft.net
 kinefinity.com
 king-capital.com
 kingandwood.com
@@ -40771,7 +40777,6 @@ lixiaozhe.com
 lixin.co
 lixingguang.com
 lixiphp.com
-lixiqin.com
 lixuan360.com
 liyangbit.com
 liyangliang.me
@@ -41928,7 +41933,6 @@ lztx123.com
 lzvod.net
 lzvw.com
 lzw.me
-lzwelding.com
 lzwifi.com
 lzxdly.com
 lzxgo.com
@@ -44402,6 +44406,7 @@ muryi.net
 muse-ui.org
 muse100.com
 mushada.com
+mushafa.net
 mushapi.com
 mushroomchina.com
 music.apple.com
@@ -44692,6 +44697,7 @@ mymj021.com
 mymofun.com
 mymoive.com
 mymova.com
+mynam3.xyz
 mynb8.com
 mynee.com
 myodatech.com
@@ -48907,6 +48913,7 @@ qgdz222.com
 qgenius.com
 qgpx.com
 qgren.com
+qgsydw.com
 qgtql.com
 qguiyang.com
 qgvps.com
@@ -51199,6 +51206,7 @@ roushongkanshu.com
 router.fun
 router.tw
 routeryun.com
+routewize.com
 routinepanic.com
 routingeye.com
 rouwen.net
@@ -51281,6 +51289,7 @@ rsp.ink
 rsscc.com
 rssmv.com
 rsty77.com
+rsu.su
 rsw163.com
 rszfg.com
 rszh.net
@@ -54262,6 +54271,7 @@ slimtheme.com
 slinceob.com
 slink8.com
 slinli.com
+slinuxer.com
 sljinghua.com
 sljkm.com
 sljypt.com
@@ -54917,6 +54927,7 @@ speiyou.com
 spfmc.com
 spforum.net
 spgnux.com
+spgyxx.com
 sphinxrating.com
 sphinxsearch.org
 spiderwebelectronics.com
@@ -61102,6 +61113,7 @@ wayos.com
 wayoulegal.com
 wayoutv.com
 wayoxi.com
+waytide.com
 waytit.com
 wazhuti.com
 wazsjg.com
@@ -71271,6 +71283,7 @@ zhwen.org
 zhwenku.com
 zhwenxue.com
 zhwlgzs.com
+zhwrshg.com
 zhxfei.com
 zhxinuser.com
 zhxww.net
@@ -71356,6 +71369,7 @@ zikao5.com
 zikaocqi.com
 zikaoshu.net
 zikaoshu.vip
+zikaosw.com
 zike.com
 zikeys.com
 zikoo.com

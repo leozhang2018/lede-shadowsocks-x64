@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2020-12-01
+## Last update: 2020-12-02
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -9253,6 +9253,7 @@
 .*\baicaike\.com
 .*\baicdn\.com
 .*\baicdn2\.com
+.*\baicdn4\.com
 .*\baichaicp\.com
 .*\baichao521\.com
 .*\baichaoxing\.com
@@ -17413,6 +17414,7 @@
 .*\bclouddn\.com
 .*\bclouddream\.net
 .*\bcloudgap\.net
+.*\bcloudgertopage\.com
 .*\bcloudgfw\.com
 .*\bcloudgfw\.net
 .*\bcloudglb\.com
@@ -21583,6 +21585,7 @@
 .*\bdocs4dev\.com
 .*\bdocschina\.org
 .*\bdocsou\.com
+.*\bdocsxyz\.com
 .*\bdoctorcom\.com
 .*\bdocx88\.com
 .*\bdoczhi\.com
@@ -23738,6 +23741,7 @@
 .*\beshanyao\.com
 .*\beshenlin\.com
 .*\beshimin\.com
+.*\beshiyun\.info
 .*\beshop-switch\.com
 .*\beshopb2c\.com
 .*\beshow365\.com
@@ -27692,6 +27696,7 @@
 .*\bgtm-a2b3\.com
 .*\bgtm-a3b1\.com
 .*\bgtm-a4b8\.com
+.*\bgtm-a4b9\.com
 .*\bgtm-i1d6\.com
 .*\bgtm-i1d9\.com
 .*\bgtmlufax\.com
@@ -27871,6 +27876,7 @@
 .*\bguijianghu\.com
 .*\bguijinshu\.com
 .*\bguijj\.com
+.*\bguikeyun\.com
 .*\bguilin\.la
 .*\bguilinhd\.com
 .*\bguilinlife\.com
@@ -35108,6 +35114,7 @@
 .*\bjiamengwoba\.com
 .*\bjiamiantech\.com
 .*\bjiaming\.pro
+.*\bjiaminghi\.com
 .*\bjiamisoft\.com
 .*\bjiamofang\.net
 .*\bjian\.net
@@ -37943,7 +37950,6 @@
 .*\bkindlehub\.mobi
 .*\bkindlelib\.com
 .*\bkindlepush\.com
-.*\bkindsoft\.net
 .*\bkinefinity\.com
 .*\bking-capital\.com
 .*\bkingandwood\.com
@@ -40649,7 +40655,6 @@
 .*\blixin\.co
 .*\blixingguang\.com
 .*\blixiphp\.com
-.*\blixiqin\.com
 .*\blixuan360\.com
 .*\bliyangbit\.com
 .*\bliyangliang\.me
@@ -41806,7 +41811,6 @@
 .*\blzvod\.net
 .*\blzvw\.com
 .*\blzw\.me
-.*\blzwelding\.com
 .*\blzwifi\.com
 .*\blzxdly\.com
 .*\blzxgo\.com
@@ -44277,6 +44281,7 @@
 .*\bmuse-ui\.org
 .*\bmuse100\.com
 .*\bmushada\.com
+.*\bmushafa\.net
 .*\bmushapi\.com
 .*\bmushroomchina\.com
 .*\bmusic163\.com
@@ -44566,6 +44571,7 @@
 .*\bmymofun\.com
 .*\bmymoive\.com
 .*\bmymova\.com
+.*\bmynam3\.xyz
 .*\bmynb8\.com
 .*\bmynee\.com
 .*\bmyodatech\.com
@@ -48770,6 +48776,7 @@
 .*\bqgenius\.com
 .*\bqgpx\.com
 .*\bqgren\.com
+.*\bqgsydw\.com
 .*\bqgtql\.com
 .*\bqguiyang\.com
 .*\bqgvps\.com
@@ -51059,6 +51066,7 @@
 .*\brouter\.fun
 .*\brouter\.tw
 .*\brouteryun\.com
+.*\broutewize\.com
 .*\broutinepanic\.com
 .*\broutingeye\.com
 .*\brouwen\.net
@@ -51141,6 +51149,7 @@
 .*\brsscc\.com
 .*\brssmv\.com
 .*\brsty77\.com
+.*\brsu\.su
 .*\brsw163\.com
 .*\brszfg\.com
 .*\brszh\.net
@@ -54113,6 +54122,7 @@
 .*\bslinceob\.com
 .*\bslink8\.com
 .*\bslinli\.com
+.*\bslinuxer\.com
 .*\bsljinghua\.com
 .*\bsljkm\.com
 .*\bsljypt\.com
@@ -54768,6 +54778,7 @@
 .*\bspfmc\.com
 .*\bspforum\.net
 .*\bspgnux\.com
+.*\bspgyxx\.com
 .*\bsphinxrating\.com
 .*\bsphinxsearch\.org
 .*\bspiderwebelectronics\.com
@@ -60926,6 +60937,7 @@
 .*\bwayoulegal\.com
 .*\bwayoutv\.com
 .*\bwayoxi\.com
+.*\bwaytide\.com
 .*\bwaytit\.com
 .*\bwazhuti\.com
 .*\bwazsjg\.com
@@ -71092,6 +71104,7 @@
 .*\bzhwenku\.com
 .*\bzhwenxue\.com
 .*\bzhwlgzs\.com
+.*\bzhwrshg\.com
 .*\bzhxfei\.com
 .*\bzhxinuser\.com
 .*\bzhxww\.net
@@ -71177,6 +71190,7 @@
 .*\bzikaocqi\.com
 .*\bzikaoshu\.net
 .*\bzikaoshu\.vip
+.*\bzikaosw\.com
 .*\bzike\.com
 .*\bzikeys\.com
 .*\bzikoo\.com
