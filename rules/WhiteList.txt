@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-01-28
+## Last update: 2021-01-29
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -2799,6 +2799,7 @@
 .*\b273u\.com
 .*\b275st\.com
 .*\b2770014\.com
+.*\b277sy\.com
 .*\b27844b\.com
 .*\b2799web\.com
 .*\b279wo\.com
@@ -7697,7 +7698,6 @@
 .*\b92cloud\.com
 .*\b92cy\.cc
 .*\b92demo\.com
-.*\b92dns\.com
 .*\b92dp\.com
 .*\b92dxs\.com
 .*\b92ez\.com
@@ -8533,6 +8533,7 @@
 .*\bacgdoge\.net
 .*\bacgface\.com
 .*\bacgist\.com
+.*\bacgjie\.com
 .*\bacglf\.com
 .*\bacglingsheng8\.com
 .*\bacgmall\.com
@@ -9082,6 +9083,7 @@
 .*\baiijournal\.com
 .*\baiimg\.com
 .*\baiimooc\.com
+.*\baiioii\.com
 .*\baiizen\.net
 .*\baijc\.net
 .*\baiji66\.com
@@ -17654,7 +17656,6 @@
 .*\bcnseay\.com
 .*\bcnsecer\.com
 .*\bcnseeq\.com
-.*\bcnseor\.com
 .*\bcnsesan\.com
 .*\bcnsfk\.com
 .*\bcnshipnet\.com
@@ -18339,6 +18340,7 @@
 .*\bcqjy\.com
 .*\bcqkdtui\.com
 .*\bcqkdtui1\.com
+.*\bcqkhg\.com
 .*\bcqkjwx\.com
 .*\bcqkqinfo\.com
 .*\bcqkundian\.com
@@ -21283,6 +21285,7 @@
 .*\bdoumi\.com
 .*\bdoumili\.com
 .*\bdoumistatic\.com
+.*\bdoumobfour\.club
 .*\bdoumobsix\.site
 .*\bdoumobtech\.online
 .*\bdoupai\.cc
@@ -27389,7 +27392,6 @@
 .*\bgxcards\.com
 .*\bgxcgw\.com
 .*\bgxcic\.net
-.*\bgxcxsb\.com
 .*\bgxdingge\.com
 .*\bgxdmw\.com
 .*\bgxfdcw\.com
@@ -29623,6 +29625,7 @@
 .*\bhldnews\.com
 .*\bhldqjx\.com
 .*\bhldsjsjx\.com
+.*\bhldtr\.com
 .*\bhlej\.com
 .*\bhlfssh\.com
 .*\bhlgad\.com
@@ -39054,6 +39057,7 @@
 .*\bliewen\.cc
 .*\bliewen\.la
 .*\bliexing-ai\.com
+.*\bliexing\.com
 .*\blieyou\.com
 .*\blieyuncapital\.com
 .*\blieyuncj\.com
@@ -44245,7 +44249,6 @@
 .*\bnicky1605\.com
 .*\bnicolaszhao\.com
 .*\bniconiconi\.cc
-.*\bnicotv\.me
 .*\bnicvision\.com
 .*\bnideu\.com
 .*\bnidianwobang\.com
@@ -48329,6 +48332,8 @@
 .*\bqmei\.me
 .*\bqmei\.vip
 .*\bqmengyun\.com
+.*\bqmht\.com
+.*\bqmht\.mobi
 .*\bqmitao\.com
 .*\bqmood\.com
 .*\bqmqm\.net
@@ -49125,7 +49130,6 @@
 .*\brainbowcn\.com
 .*\brainbowred\.com
 .*\brainbowsoft\.org
-.*\braincy\.org
 .*\braindi\.net
 .*\braindoe\.com
 .*\braineggplant\.com
@@ -64995,6 +64999,7 @@
 .*\byanlinghm\.com
 .*\byanliu\.org
 .*\byanlutong\.com
+.*\byanmbjiage\.com
 .*\byannv\.com
 .*\byanoda\.com
 .*\byanpk\.com
@@ -65767,6 +65772,7 @@
 .*\byingdianzi\.com
 .*\byinge\.tech
 .*\byingerchela\.com
+.*\byingfeiyun\.com
 .*\byingfeng\.me
 .*\byinghaicar\.com
 .*\byinghaozs\.com
@@ -66238,6 +66244,7 @@
 .*\bymeme\.com
 .*\bymexf\.com
 .*\bymfe\.org
+.*\bymfhbcj\.net
 .*\bymfile\.com
 .*\bymfile01\.com
 .*\bymgmno\.com
