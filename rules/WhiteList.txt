@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-01-30
+## Last update: 2021-01-31
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -2573,7 +2573,6 @@
 .*\b22edu\.com
 .*\b22evil\.com
 .*\b22ff\.com
-.*\b22ff\.org
 .*\b22hd\.com
 .*\b22hyk\.com
 .*\b22ja\.com
@@ -3378,6 +3377,7 @@
 .*\b360tpcdn\.com
 .*\b360u9\.com
 .*\b360uu\.com
+.*\b360vipshop\.com
 .*\b360vps\.com
 .*\b360vrzy\.com
 .*\b360wbl\.com
@@ -5261,6 +5261,7 @@
 .*\b5360ok\.com
 .*\b53617686\.com
 .*\b5366\.com
+.*\b53666\.org
 .*\b536wx\.com
 .*\b537\.com
 .*\b5379yx\.com
@@ -9761,7 +9762,6 @@
 .*\bane56\.com
 .*\baneasystone\.com
 .*\banf-z\.com
-.*\banfadianqi\.com
 .*\banfan\.com
 .*\banfang086\.com
 .*\banfang6688\.com
@@ -10092,7 +10092,6 @@
 .*\baoyunque\.com
 .*\baozehuanbao\.com
 .*\baozhougoufang\.com
-.*\baozsw\.com
 .*\bap88\.com
 .*\bapa\.me
 .*\bapabi\.com
@@ -12859,7 +12858,6 @@
 .*\bblazefire\.com
 .*\bblazefire\.net
 .*\bblbx\.com
-.*\bblc-cn\.com
 .*\bblchen\.com
 .*\bblctwed\.com
 .*\bbld-hotel\.com
@@ -15516,6 +15514,7 @@
 .*\bchhzm\.com
 .*\bchi2ko\.com
 .*\bchi588\.com
+.*\bchiang\.fun
 .*\bchianqs\.com
 .*\bchibaole\.com
 .*\bchichuang\.com
@@ -16346,7 +16345,6 @@
 .*\bchncomic\.com
 .*\bchncpa\.org
 .*\bchncwds\.com
-.*\bchndayu\.com
 .*\bchndesign\.com
 .*\bchndsnews\.com
 .*\bchndtb\.com
@@ -27332,7 +27330,6 @@
 .*\bgwauto\.com
 .*\bgwclouds\.net
 .*\bgwdang\.com
-.*\bgwdij\.com
 .*\bgwell\.cc
 .*\bgwidc\.com
 .*\bgwj-test\.com
@@ -29363,6 +29360,7 @@
 .*\bhigame123\.com
 .*\bhigeshi\.com
 .*\bhighdigitizing\.com
+.*\bhighgg\.com
 .*\bhighgo\.com
 .*\bhighlm\.com
 .*\bhightopo\.com
@@ -34407,6 +34405,7 @@
 .*\bjiazhua\.com
 .*\bjiazhuang\.com
 .*\bjiazhuang6\.com
+.*\bjiazijun\.com
 .*\bjiazile\.com
 .*\bjiazuo\.cc
 .*\bjibai\.com
@@ -35977,6 +35976,7 @@
 .*\bjustep\.com
 .*\bjustering\.com
 .*\bjustjavac\.com
+.*\bjustoracle\.com
 .*\bjustpodmedia\.com
 .*\bjustsy\.com
 .*\bjustwe\.site
@@ -37157,6 +37157,7 @@
 .*\bkm18\.net
 .*\bkm1818\.com
 .*\bkm198\.com
+.*\bkmaa4\.com
 .*\bkmail\.com
 .*\bkmapp\.net
 .*\bkmcaishui\.com
@@ -40679,6 +40680,7 @@
 .*\blz520\.net
 .*\blz6\.com
 .*\blzabcd\.com
+.*\blzafny\.com
 .*\blzane\.com
 .*\blzbank\.com
 .*\blzc369\.com
@@ -46644,7 +46646,6 @@
 .*\bpkvs\.com
 .*\bpkzx\.com
 .*\bplaidc\.com
-.*\bplanetdoge\.com
 .*\bplanetmeican\.com
 .*\bplanoi\.com
 .*\bplantextra\.com
@@ -46837,7 +46838,6 @@
 .*\bpoqsoft\.com
 .*\bporlockz\.com
 .*\bporschesky\.com
-.*\bportofinohotels\.cc
 .*\bportoflower\.com
 .*\bports-intl\.com
 .*\bpos\.gold
@@ -49031,6 +49031,7 @@
 .*\bqzone\.cc
 .*\bqzone\.com
 .*\bqzoneapp\.com
+.*\bqzqstudio\.com
 .*\bqzrbx\.com
 .*\bqzrc\.com
 .*\bqzrx\.net
@@ -49356,7 +49357,6 @@
 .*\bremembermor\.club
 .*\brememtek\.com
 .*\bremen88\.com
-.*\bremote88\.com
 .*\bremoteaps\.com
 .*\bremotedu\.com
 .*\brenaren\.com
