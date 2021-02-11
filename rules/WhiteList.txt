@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-02-10
+## Last update: 2021-02-11
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -2576,7 +2576,6 @@
 .*\b22lianmeng\.com
 .*\b22lrc\.com
 .*\b22m6\.com
-.*\b22mm\.cc
 .*\b22mt\.in
 .*\b22net\.com
 .*\b22plc\.com
@@ -2945,7 +2944,6 @@
 .*\b2vc00\.com
 .*\b2w\.cm
 .*\b2weima\.com
-.*\b2xbinh\.com
 .*\b2xiazai\.com
 .*\b2y9y\.com
 .*\b2yuanma\.com
@@ -4069,7 +4067,6 @@
 .*\b477sblive\.com
 .*\b47819\.com
 .*\b47gs\.com
-.*\b47hddy\.com
 .*\b47jh\.com
 .*\b47ks\.com
 .*\b47yun\.com
@@ -5186,7 +5183,6 @@
 .*\b52wlw\.com
 .*\b52wmb\.com
 .*\b52wubi\.com
-.*\b52wy\.com
 .*\b52xiaomian\.com
 .*\b52xiaoshuowang\.com
 .*\b52xiaoyuan\.net
@@ -9484,6 +9480,7 @@
 .*\baliyunceng\.com
 .*\baliyuncs\.com
 .*\baliyundaiwei\.com
+.*\baliyunddos0018\.com
 .*\baliyunddos0020\.com
 .*\baliyunddos0026\.com
 .*\baliyunddos0030\.com
@@ -16827,7 +16824,6 @@
 .*\bclick-v\.com
 .*\bclick369\.com
 .*\bclickclaro\.xyz
-.*\bclickstyle\.net
 .*\bclicksun\.net
 .*\bclickwifi\.net
 .*\bclient51\.com
@@ -19427,7 +19423,6 @@
 .*\bdaodianfu\.com
 .*\bdaododo\.com
 .*\bdaoduoduo\.com
-.*\bdaoen888\.com
 .*\bdaofengdj\.com
 .*\bdaofenggame\.com
 .*\bdaofengyx\.com
@@ -23298,7 +23293,6 @@
 .*\bexpba\.com
 .*\bexpcloud\.net
 .*\bexpdns\.net
-.*\bexpfile\.com
 .*\bexpiredns\.net
 .*\bexpirenotification\.com
 .*\bexpirepausedns\.com
@@ -29102,6 +29096,7 @@
 .*\bhfgrandtheatre\.com
 .*\bhfhouse\.com
 .*\bhfhyw\.com
+.*\bhfi-health\.com
 .*\bhfjy\.com
 .*\bhfkeheng\.com
 .*\bhfkj0754\.com
@@ -33974,7 +33969,6 @@
 .*\bjfsky\.com
 .*\bjfstage\.com
 .*\bjfstatic\.com
-.*\bjftrf\.com
 .*\bjfuwu\.com
 .*\bjfxc\.com
 .*\bjfxqczl\.com
@@ -37807,7 +37801,6 @@
 .*\bladpex\.com
 .*\blady177\.com
 .*\blady361\.com
-.*\blady83\.com
 .*\blady8844\.com
 .*\blady98\.com
 .*\bladybirdedu\.com
@@ -38369,7 +38362,6 @@
 .*\bledi\.us
 .*\bledianduo\.com
 .*\blediaocha\.com
-.*\bledlightingfactory\.com
 .*\bledo\.com
 .*\bledongzone\.com
 .*\bledpfw\.net
@@ -39674,7 +39666,6 @@
 .*\blnzsks\.com
 .*\blo97\.com
 .*\bload-page\.com
-.*\blobsfh\.icu
 .*\blocatran\.com
 .*\blocez\.com
 .*\blockfans\.com
@@ -40289,7 +40280,6 @@
 .*\bluolai\.com
 .*\bluolai\.tech
 .*\bluolei\.org
-.*\bluolicloud\.com
 .*\bluomapan\.com
 .*\bluomi\.com
 .*\bluoo\.net
@@ -43947,7 +43937,6 @@
 .*\bnewhua\.com
 .*\bnewifi\.com
 .*\bnewistock\.com
-.*\bnewjianzhi\.com
 .*\bnewjson\.com
 .*\bnewlandaidc\.com
 .*\bnewlifex\.com
@@ -44972,6 +44961,7 @@
 .*\bokdai\.com
 .*\bokdd\.net
 .*\bokemu\.com
+.*\bokex\.vip
 .*\bokeycar\.com
 .*\bokfri\.com
 .*\bokgj\.com
@@ -47102,7 +47092,6 @@
 .*\bputaoa\.com
 .*\bputaocdn\.com
 .*\bputaogame\.com
-.*\bputaozhuangyuan\.com
 .*\bputclub\.com
 .*\bputdb\.com
 .*\bputian508\.com
@@ -48594,6 +48583,7 @@
 .*\bquantum-info\.com
 .*\bquanweili\.com
 .*\bquanxi\.cc
+.*\bquanxiangyun\.com
 .*\bquanxiaoshuo\.com
 .*\bquanyin\.xyz
 .*\bquanyouhui\.cc
@@ -50537,7 +50527,6 @@
 .*\bsdkclickurl\.com
 .*\bsdklh\.com
 .*\bsdksrv\.com
-.*\bsdlc6\.com
 .*\bsdlfjt\.com
 .*\bsdlldj\.com
 .*\bsdlocw\.com
@@ -59330,6 +59319,7 @@
 .*\bwbljjy\.com
 .*\bwbo529\.com
 .*\bwbolt\.com
+.*\bwbpluto\.com
 .*\bwbpvc\.com
 .*\bwbsp\.net
 .*\bwbsrf\.com
@@ -61071,6 +61061,7 @@
 .*\bworldofai\.com
 .*\bworldpathclinic\.com
 .*\bworldpia\.net
+.*\bworldpowerliftingchina\.com
 .*\bworldsocks\.com
 .*\bworlduc\.com
 .*\bworldui\.com
@@ -61749,7 +61740,6 @@
 .*\bwydbw\.com
 .*\bwydljx\.com
 .*\bwydns\.com
-.*\bwygdu\.com
 .*\bwying360\.com
 .*\bwyins\.net
 .*\bwykefu\.com
@@ -62118,6 +62108,7 @@
 .*\bxddex\.com
 .*\bxddhy\.com
 .*\bxddpay\.com
+.*\bxddxs\.cc
 .*\bxddxx102\.com
 .*\bxde\.com
 .*\bxde6\.net
@@ -63961,7 +63952,6 @@
 .*\bxsbashi\.net
 .*\bxsbiquge\.com
 .*\bxsbiqugew\.com
-.*\bxsbjw\.com
 .*\bxscbs\.com
 .*\bxschu\.com
 .*\bxsdwk\.com
