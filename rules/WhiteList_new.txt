@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2021-02-16
+## Last update: 2021-02-17
 
 
 Server=/0-100.com/
@@ -18830,6 +18830,7 @@ Server=/cxmld.com/
 Server=/cxmms.com/
 Server=/cxmt.com/
 Server=/cxmtc.net/
+Server=/cxqb.net/
 Server=/cxsw3d.com/
 Server=/cxsyjy.com/
 Server=/cxta.com/
@@ -20444,7 +20445,6 @@ Server=/dingdone.com/
 Server=/dingdongcloud.com/
 Server=/dingdongqb.com/
 Server=/dingfang123.com/
-Server=/dingguajiao.com/
 Server=/dinghaiec.com/
 Server=/dinghuaren.com/
 Server=/dinghuihuojia.com/
@@ -28925,7 +28925,6 @@ Server=/hemaos.com/
 Server=/hemayun.com/
 Server=/hemayx.com/
 Server=/heminjie.com/
-Server=/hemnq.com/
 Server=/hempelgroup.com/
 Server=/hen360.com/
 Server=/henan100.com/
@@ -39200,6 +39199,7 @@ Server=/linux178.com/
 Server=/linux265.com/
 Server=/linux5.net/
 Server=/linux6.com/
+Server=/linuxacme.icu/
 Server=/linuxba.com/
 Server=/linuxbaike.com/
 Server=/linuxbaodian.com/
@@ -46242,6 +46242,7 @@ Server=/piaoquantv.com/
 Server=/piaoshen.com/
 Server=/piaotian.org/
 Server=/piaotian.us/
+Server=/piaotian5.com/
 Server=/piaotongyun.com/
 Server=/piaowu99.com/
 Server=/piaowusong.com/
@@ -49879,6 +49880,7 @@ Server=/ruubypay.com/
 Server=/ruuxee.com/
 Server=/ruvar.com/
 Server=/ruvisas.com/
+Server=/ruwen5.com/
 Server=/ruxianke.com/
 Server=/ruyahui.com/
 Server=/ruyi.ai/
@@ -56649,6 +56651,7 @@ Server=/tszyzx.com/
 Server=/tt-beian.com/
 Server=/tt-bike.com/
 Server=/tt-ly.com/
+Server=/tt-tz.com/
 Server=/tt116114.com/
 Server=/tt1386.com/
 Server=/tt1h.com/
@@ -58627,6 +58630,7 @@ Server=/vqs.com/
 Server=/vqudo.com/
 Server=/vqudochina.com/
 Server=/vqudoshop.com/
+Server=/vqxfj.bar/
 Server=/vr-cat.com/
 Server=/vr1000.com/
 Server=/vr186.com/

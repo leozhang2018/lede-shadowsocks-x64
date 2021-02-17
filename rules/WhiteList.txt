@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-02-16
+## Last update: 2021-02-17
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -18830,6 +18830,7 @@
 .*\bcxmms\.com
 .*\bcxmt\.com
 .*\bcxmtc\.net
+.*\bcxqb\.net
 .*\bcxsw3d\.com
 .*\bcxsyjy\.com
 .*\bcxta\.com
@@ -20444,7 +20445,6 @@
 .*\bdingdongcloud\.com
 .*\bdingdongqb\.com
 .*\bdingfang123\.com
-.*\bdingguajiao\.com
 .*\bdinghaiec\.com
 .*\bdinghuaren\.com
 .*\bdinghuihuojia\.com
@@ -28925,7 +28925,6 @@
 .*\bhemayun\.com
 .*\bhemayx\.com
 .*\bheminjie\.com
-.*\bhemnq\.com
 .*\bhempelgroup\.com
 .*\bhen360\.com
 .*\bhenan100\.com
@@ -39200,6 +39199,7 @@
 .*\blinux265\.com
 .*\blinux5\.net
 .*\blinux6\.com
+.*\blinuxacme\.icu
 .*\blinuxba\.com
 .*\blinuxbaike\.com
 .*\blinuxbaodian\.com
@@ -46242,6 +46242,7 @@
 .*\bpiaoshen\.com
 .*\bpiaotian\.org
 .*\bpiaotian\.us
+.*\bpiaotian5\.com
 .*\bpiaotongyun\.com
 .*\bpiaowu99\.com
 .*\bpiaowusong\.com
@@ -49879,6 +49880,7 @@
 .*\bruuxee\.com
 .*\bruvar\.com
 .*\bruvisas\.com
+.*\bruwen5\.com
 .*\bruxianke\.com
 .*\bruyahui\.com
 .*\bruyi\.ai
@@ -56649,6 +56651,7 @@
 .*\btt-beian\.com
 .*\btt-bike\.com
 .*\btt-ly\.com
+.*\btt-tz\.com
 .*\btt116114\.com
 .*\btt1386\.com
 .*\btt1h\.com
@@ -58627,6 +58630,7 @@
 .*\bvqudo\.com
 .*\bvqudochina\.com
 .*\bvqudoshop\.com
+.*\bvqxfj\.bar
 .*\bvr-cat\.com
 .*\bvr1000\.com
 .*\bvr186\.com
