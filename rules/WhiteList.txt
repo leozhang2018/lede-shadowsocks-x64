@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-05-11
+## Last update: 2021-05-12
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -1977,7 +1977,6 @@
 .*\b18ca\.com
 .*\b18caijing\.com
 .*\b18chonglou\.com
-.*\b18cr2ni4w\.org
 .*\b18dao\.com
 .*\b18dao\.org
 .*\b18daxue\.com
@@ -6711,6 +6710,7 @@
 .*\b810251\.com
 .*\b8108188\.com
 .*\b810840\.com
+.*\b81265\.net
 .*\b81312\.com
 .*\b81329999\.net
 .*\b815good\.com
@@ -17237,7 +17237,6 @@
 .*\bcnspeedtest\.com
 .*\bcnspeedtest\.net
 .*\bcnsphoto\.com
-.*\bcnssz\.com
 .*\bcnstea\.com
 .*\bcnstock\.com
 .*\bcnsun\.cc
@@ -25482,7 +25481,6 @@
 .*\bggqule\.com
 .*\bggqx\.com
 .*\bggsafe\.com
-.*\bggvnsr\.com
 .*\bggwan\.com
 .*\bggweb\.net
 .*\bggxt\.net
@@ -27148,6 +27146,7 @@
 .*\bhahayouxi\.com
 .*\bhahour\.com
 .*\bhai0\.com
+.*\bhai3\.store
 .*\bhaiall\.com
 .*\bhaiana\.com
 .*\bhaianbank\.com
@@ -35958,7 +35957,6 @@
 .*\bkejimeixue\.com
 .*\bkejimt\.com
 .*\bkejingyuan\.com
-.*\bkejipindao\.com
 .*\bkejiqi\.com
 .*\bkejitai\.com
 .*\bkejiwang\.cc
@@ -37138,6 +37136,7 @@
 .*\blaixueedu\.com
 .*\blaixuexi\.cc
 .*\blaiyetxt\.com
+.*\blaiyexs\.com
 .*\blaiyifen\.com
 .*\blaiyihuo\.com
 .*\blaiyikeji\.net
@@ -37720,7 +37719,6 @@
 .*\bleiue\.com
 .*\bleiyunge\.com
 .*\bleiyunge\.net
-.*\bleiyunge88\.com
 .*\blejiachao\.com
 .*\blejian\.com
 .*\blejianweike\.com
@@ -47306,7 +47304,6 @@
 .*\bqq\.com
 .*\bqq\.do
 .*\bqq\.net
-.*\bqq1000\.net
 .*\bqq123\.xin
 .*\bqq163\.cc
 .*\bqq163\.com
@@ -53670,7 +53667,6 @@
 .*\btaihuyuan\.com
 .*\btaiji\.com
 .*\btaijicoder\.com
-.*\btaijidf\.com
 .*\btaijiny\.com
 .*\btaijio\.com
 .*\btaijs\.com
@@ -55740,7 +55736,6 @@
 .*\btu6\.la
 .*\btu8\.cc
 .*\btu960\.com
-.*\btuan001\.com
 .*\btuan800\.com
 .*\btuan800\.net
 .*\btuanai\.com
@@ -57323,7 +57318,6 @@
 .*\bvinnywang\.com
 .*\bvinoyang\.com
 .*\bvinuxhome\.com
-.*\bvioee\.com
 .*\bvioletgo\.com
 .*\bviolinerhu\.com
 .*\bviolinww\.com
@@ -60546,6 +60540,7 @@
 .*\bwxblockchain\.com
 .*\bwxbrandway\.com
 .*\bwxbsgc\.com
+.*\bwxbxkx\.com
 .*\bwxcha\.com
 .*\bwxcsgd\.com
 .*\bwxdgjx\.com
@@ -62380,6 +62375,7 @@
 .*\bxjfda\.com
 .*\bxjfeiniu\.com
 .*\bxjfilm\.net
+.*\bxjfine\.com
 .*\bxjflcp\.com
 .*\bxjfzb\.com
 .*\bxjggjy\.com
@@ -62481,7 +62477,6 @@
 .*\bxltrip\.com
 .*\bxltzgy\.com
 .*\bxluos\.com
-.*\bxlwdh\.com
 .*\bxlwxsw\.com
 .*\bxlxzikao\.com
 .*\bxlylf\.com
@@ -62804,7 +62799,6 @@
 .*\bxshuoba\.com
 .*\bxshuotxt\.com
 .*\bxshwp\.com
-.*\bxshyhotel\.com
 .*\bxsina\.net
 .*\bxsj2020888\.com
 .*\bxsjedu\.org
@@ -63926,7 +63920,6 @@
 .*\byeolar\.com
 .*\byeoner\.com
 .*\byeree\.com
-.*\byerentan\.com
 .*\byerhu\.com
 .*\byes-chinese\.com
 .*\byes515\.com
@@ -64120,7 +64113,6 @@
 .*\byi6\.com
 .*\byi7\.com
 .*\byi958\.com
-.*\byiaedu\.com
 .*\byiai\.me
 .*\byiaini\.com
 .*\byianju\.ltd
@@ -66816,6 +66808,7 @@
 .*\bzg163\.net
 .*\bzg3721\.com
 .*\bzg388\.com
+.*\bzg3china\.com
 .*\bzg45\.net
 .*\bzga81\.com
 .*\bzgaxr\.com
