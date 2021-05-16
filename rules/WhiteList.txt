@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-05-15
+## Last update: 2021-05-16
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -3437,6 +3437,7 @@
 .*\b377bbs\.com
 .*\b378699\.com
 .*\b37937\.com
+.*\b3798\.com
 .*\b379941\.com
 .*\b379942\.com
 .*\b37bjw\.com
@@ -11209,6 +11210,7 @@
 .*\bbbsls\.net
 .*\bbbsmax\.com
 .*\bbbsmovie\.com
+.*\bbbsnet\.com
 .*\bbbsut\.com
 .*\bbbsxp\.com
 .*\bbbtang\.info
@@ -11541,6 +11543,7 @@
 .*\bbepal\.pro
 .*\bbequgew\.com
 .*\bbequgezw\.com
+.*\bberlinchan\.com
 .*\bberlinix\.com
 .*\bberqin\.com
 .*\bberrl\.com
@@ -11773,6 +11776,7 @@
 .*\bbieyangapp\.com
 .*\bbifa770\.com
 .*\bbifabu\.com
+.*\bbifeige\.com
 .*\bbifen\.la
 .*\bbifong\.com
 .*\bbig-bit\.com
@@ -12464,6 +12468,7 @@
 .*\bbkxs\.net
 .*\bbkzzy\.com
 .*\bbl\.com
+.*\bbl2030\.com
 .*\bbl35\.org
 .*\bbl5\.cc
 .*\bbl9k\.com
@@ -16447,6 +16452,7 @@
 .*\bclearaki\.com
 .*\bcleey\.com
 .*\bclewm\.net
+.*\bclewx\.com
 .*\bclf\.red
 .*\bclfile\.com
 .*\bclg5\.info
@@ -19372,6 +19378,7 @@
 .*\bddxia\.com
 .*\bddxq\.mobi
 .*\bddxs\.cc
+.*\bddxstxt8\.com
 .*\bddyun\.com
 .*\bddyun123\.com
 .*\bddyvip\.com
@@ -21009,6 +21016,7 @@
 .*\bdubyc\.com
 .*\bduchang\.org
 .*\bdudong\.com
+.*\bduduaa\.com
 .*\bdudubashi\.com
 .*\bdududu\.la
 .*\bdudumeijia\.com
@@ -23704,6 +23712,7 @@
 .*\bfhoverseas\.com
 .*\bfhrlw\.com
 .*\bfhtlw\.com
+.*\bfhtre\.com
 .*\bfhyx\.com
 .*\bfhyx\.hk
 .*\bfi94\.com
@@ -32081,6 +32090,7 @@
 .*\binternettrademark\.com
 .*\binternetworld\.cloud
 .*\bintertid\.com
+.*\binterval\.im
 .*\bintiea\.org
 .*\bintio\.org
 .*\bintlscdn\.com
@@ -32952,6 +32962,7 @@
 .*\bjaadee\.net
 .*\bjabizb\.com
 .*\bjacklm2\.com
+.*\bjacklm3\.com
 .*\bjackmt\.com
 .*\bjackon\.me
 .*\bjackslab\.org
@@ -42409,6 +42420,7 @@
 .*\bmyicloud\.vip
 .*\bmyie\.me
 .*\bmyie9\.com
+.*\bmyip\.la
 .*\bmyiplay\.com
 .*\bmyir-tech\.com
 .*\bmyirtech\.com
@@ -46999,6 +47011,7 @@
 .*\bqiu-ai\.com
 .*\bqiu\.com
 .*\bqiuball\.com
+.*\bqiubiaoqing\.com
 .*\bqiucinews\.com
 .*\bqiudao\.net
 .*\bqiudian\.net
@@ -48704,6 +48717,7 @@
 .*\brsng\.net
 .*\brso\.wang
 .*\brsp\.ink
+.*\brss\.ink
 .*\brsscc\.com
 .*\brssmeet\.com
 .*\brssmv\.com
@@ -51759,6 +51773,7 @@
 .*\bsnrunning\.com
 .*\bsns\.io
 .*\bsnsbao\.com
+.*\bsnscz\.com
 .*\bsnsfun\.cc
 .*\bsnsfun\.com
 .*\bsnsii\.com
@@ -57039,6 +57054,7 @@
 .*\bvbanzs\.com
 .*\bvbbobo\.com
 .*\bvbidc\.com
+.*\bvbiquge\.com
 .*\bvbmcms\.com
 .*\bvboba\.com
 .*\bvbooking\.net
@@ -57452,6 +57468,7 @@
 .*\bvojs\.tv
 .*\bvokop\.com
 .*\bvol\.moe
+.*\bvolccdn\.com
 .*\bvolchina\.com
 .*\bvolcimagex\.net
 .*\bvoldp\.com
@@ -62964,6 +62981,7 @@
 .*\bxueyou\.org
 .*\bxueyuanjun\.com
 .*\bxuezhouyi\.com
+.*\bxuezishi\.net
 .*\bxuezizhai\.com
 .*\bxugaoyang\.com
 .*\bxugucn\.com
