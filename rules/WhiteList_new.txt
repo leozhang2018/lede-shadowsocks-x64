@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2021-09-20
+## Last update: 2021-09-21
 
 
 Server=/0-100.com/
@@ -14047,7 +14047,6 @@ Server=/ceobiao.com/
 Server=/ceoeo.com/
 Server=/ceoim.com/
 Server=/ceomoo.com/
-Server=/ceons4.com/
 Server=/ceook.com/
 Server=/ceoplaza.com/
 Server=/ceotx.com/
@@ -23103,7 +23102,6 @@ Server=/fenxi.com/
 Server=/fenxi.org/
 Server=/fenxiangdashi.com/
 Server=/fenxianglife.com/
-Server=/fenxiaoba.net/
 Server=/fenxiyi.com/
 Server=/fenxuekeji.com/
 Server=/fenying.net/
@@ -24003,7 +24001,6 @@ Server=/fvti.com/
 Server=/fw-biotech.com/
 Server=/fw4.co/
 Server=/fw4.me/
-Server=/fwcdn.com/
 Server=/fwdq.com/
 Server=/fwdq.net/
 Server=/fwdqw.com/
@@ -26473,7 +26470,6 @@ Server=/haawking.com/
 Server=/habadog.com/
 Server=/habbygames.com/
 Server=/hac-ker.net/
-Server=/hacdn.net/
 Server=/hack0nair.me/
 Server=/hack50.com/
 Server=/hackav.com/
@@ -26498,7 +26494,6 @@ Server=/hacori.com/
 Server=/hacpai.com/
 Server=/haczjob.com/
 Server=/hadax.com/
-Server=/hadns.net/
 Server=/hadobi.com/
 Server=/hadsky.com/
 Server=/hadyang.com/
@@ -39829,7 +39824,6 @@ Server=/meirishangxin.com/
 Server=/meirishentie.com/
 Server=/meiritv.net/
 Server=/meiriyiwen.com/
-Server=/meiriyouxue.com/
 Server=/meirong.net/
 Server=/meirongshanghai.com/
 Server=/meisaitu.com/
@@ -59291,6 +59285,7 @@ Server=/wyins.net/
 Server=/wykefu.com/
 Server=/wykw.com/
 Server=/wykz.com/
+Server=/wylws.com/
 Server=/wymp4.net/
 Server=/wymp46.com/
 Server=/wyn88.com/
@@ -63702,10 +63697,8 @@ Server=/youjiao.com/
 Server=/youjiaus.net/
 Server=/youjiaxiao.com/
 Server=/youjiuhealth.com/
-Server=/youjk.com/
 Server=/youjoy.tv/
 Server=/youjuke.com/
-Server=/youka.la/
 Server=/youkake.com/
 Server=/youke.co/
 Server=/youke.com/
@@ -67308,6 +67301,7 @@ Server=/zsezt.com/
 Server=/zsf.cool/
 Server=/zsfstudio.xyz/
 Server=/zsfund.com/
+Server=/zsfy.org/
 Server=/zsgd.com/
 Server=/zsglrj.com/
 Server=/zsgoodlighting.com/
