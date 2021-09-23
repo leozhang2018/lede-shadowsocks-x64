@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2021-09-22
+## Last update: 2021-09-23
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -4987,7 +4987,6 @@
 .*\b54share\.com
 .*\b54tf\.com
 .*\b54traveler\.com
-.*\b54tushu\.com
 .*\b54tusi\.com
 .*\b54up\.net
 .*\b54yt\.net
@@ -7408,7 +7407,6 @@
 .*\b96app\.com
 .*\b96bbs\.com
 .*\b96caifu\.com
-.*\b96chengbao\.com
 .*\b96dp\.com
 .*\b96go\.com
 .*\b96hq\.com
@@ -13133,6 +13131,7 @@
 .*\bcaidian\.com
 .*\bcaidianqu\.com
 .*\bcaiens\.com
+.*\bcaifu\.com
 .*\bcaifu110\.com
 .*\bcaifuxingketang\.com
 .*\bcaifuzhongwen\.com
@@ -30312,7 +30311,6 @@
 .*\bicharm\.me
 .*\bichat800\.com
 .*\bichdata\.com
-.*\bichefeng\.com
 .*\bichehaopei\.com
 .*\bichehome\.com
 .*\bichenfei\.com
@@ -34179,7 +34177,6 @@
 .*\bjtlw\.com
 .*\bjtnsh\.com
 .*\bjtnxs\.com
-.*\bjtqh\.net
 .*\bjtstudy\.com
 .*\bjttv\.net
 .*\bjtv123\.com
@@ -34778,7 +34775,6 @@
 .*\bkaijia\.com
 .*\bkaijia\.me
 .*\bkaijiaweishi\.com
-.*\bkaijun\.win
 .*\bkaikeba\.com
 .*\bkailing\.pub
 .*\bkaimanhua\.com
@@ -34930,7 +34926,6 @@
 .*\bkansp\.com
 .*\bkantao\.net
 .*\bkantiantang\.com
-.*\bkantiantang\.net
 .*\bkantsuu\.com
 .*\bkantu\.com
 .*\bkanwby\.com
@@ -43747,6 +43742,7 @@
 .*\bpanchuang\.net
 .*\bpancishe\.com
 .*\bpanda\.tv
+.*\bpanda321\.com
 .*\bpanda98\.com
 .*\bpandadastudio\.com
 .*\bpandafoundation\.org
@@ -44373,7 +44369,6 @@
 .*\bpictureknow\.com
 .*\bpicup\.shop
 .*\bpicxiaobai\.com
-.*\bpicyoung\.com
 .*\bpicyq\.com
 .*\bpidcn\.com
 .*\bpieeco\.com
@@ -52993,7 +52988,6 @@
 .*\bteemmm\.com
 .*\bteencn\.com
 .*\bteeqee\.com
-.*\bteeterstoop\.store
 .*\btefl-china\.net
 .*\btegongji\.com
 .*\btegoushe\.com
@@ -53958,7 +53952,6 @@
 .*\btongyou188\.com
 .*\btongyuanos\.com
 .*\btongyue\.com
-.*\btongzhougongjin\.com
 .*\btongzhousy\.com
 .*\btongzhuo100\.com
 .*\btonitech\.com
@@ -61790,7 +61783,6 @@
 .*\bxxkt\.org
 .*\bxxkucun\.com
 .*\bxxlcn\.com
-.*\bxxlinux\.com
 .*\bxxliudsp\.com
 .*\bxxlwin\.com
 .*\bxxm\.plus
@@ -64919,6 +64911,7 @@
 .*\byyxxgame\.com
 .*\byyxxgameyw\.com
 .*\byyyeee\.com
+.*\byyyy\.games
 .*\byyzai\.com
 .*\byyzsoft\.com
 .*\byyzw\.com

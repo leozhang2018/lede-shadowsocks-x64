@@ -4983,7 +4983,6 @@
 54share.com
 54tf.com
 54traveler.com
-54tushu.com
 54tusi.com
 54up.net
 54yt.net
@@ -7404,7 +7403,6 @@
 96app.com
 96bbs.com
 96caifu.com
-96chengbao.com
 96dp.com
 96go.com
 96hq.com
@@ -13149,6 +13147,7 @@ caidaoli.com
 caidian.com
 caidianqu.com
 caiens.com
+caifu.com
 caifu110.com
 caifuxingketang.com
 caifuzhongwen.com
@@ -30400,7 +30399,6 @@ ichaotu.com
 icharm.me
 ichat800.com
 ichdata.com
-ichefeng.com
 ichehaopei.com
 ichehome.com
 ichenfei.com
@@ -34294,7 +34292,6 @@ jtjr99.com
 jtlw.com
 jtnsh.com
 jtnxs.com
-jtqh.net
 jtstudy.com
 jttv.net
 jtv123.com
@@ -34893,7 +34890,6 @@ kaihuia.com
 kaijia.com
 kaijia.me
 kaijiaweishi.com
-kaijun.win
 kaikeba.com
 kailing.pub
 kaimanhua.com
@@ -35045,7 +35041,6 @@ kanshuwangzhan.com
 kansp.com
 kantao.net
 kantiantang.com
-kantiantang.net
 kantsuu.com
 kantu.com
 kanwby.com
@@ -43874,6 +43869,7 @@ pancake.cdn-apple.com.akadns.net
 panchuang.net
 pancishe.com
 panda.tv
+panda321.com
 panda98.com
 pandadastudio.com
 pandafoundation.org
@@ -44501,7 +44497,6 @@ picp.net
 pictureknow.com
 picup.shop
 picxiaobai.com
-picyoung.com
 picyq.com
 pidcn.com
 pieeco.com
@@ -53148,7 +53143,6 @@ teemm.com
 teemmm.com
 teencn.com
 teeqee.com
-teeterstoop.store
 tefl-china.net
 tegongji.com
 tegoushe.com
@@ -54113,7 +54107,6 @@ tongyongpe.com
 tongyou188.com
 tongyuanos.com
 tongyue.com
-tongzhougongjin.com
 tongzhousy.com
 tongzhuo100.com
 tonitech.com
@@ -61960,7 +61953,6 @@ xxko.net
 xxkt.org
 xxkucun.com
 xxlcn.com
-xxlinux.com
 xxliudsp.com
 xxlwin.com
 xxm.plus
@@ -65089,6 +65081,7 @@ yyxx100.com
 yyxxgame.com
 yyxxgameyw.com
 yyyeee.com
+yyyy.games
 yyzai.com
 yyzsoft.com
 yyzw.com
