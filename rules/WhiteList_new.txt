@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2022-01-03
+## Last update: 2022-01-04
 
 
 Server=/0-100.com/
@@ -3150,6 +3150,7 @@ Server=/360totalsecurity.com/
 Server=/360tpcdn.com/
 Server=/360u9.com/
 Server=/360uu.com/
+Server=/360vcloud.com/
 Server=/360vipshop.com/
 Server=/360vps.com/
 Server=/360vrzy.com/
@@ -3507,7 +3508,6 @@ Server=/3dxuan.com/
 Server=/3dxy.com/
 Server=/3dzyw.com/
 Server=/3e.net/
-Server=/3edy.com/
 Server=/3eyes.org/
 Server=/3fang.com/
 Server=/3fantizi.com/
@@ -13769,6 +13769,7 @@ Server=/cdeledu.com/
 Server=/cdfcn.com/
 Server=/cdfgsanya.com/
 Server=/cdfinger.com/
+Server=/cdfmembers.com/
 Server=/cdfortis.com/
 Server=/cdfytx.com/
 Server=/cdgdad.com/
@@ -47625,7 +47626,6 @@ Server=/rocky.hk/
 Server=/rockyaero.com/
 Server=/rockyenglish.com/
 Server=/roclee.com/
-Server=/rocsf.org/
 Server=/roddypy.com/
 Server=/roffar.com/
 Server=/rohm-chip.com/
@@ -54260,6 +54260,7 @@ Server=/toshow.com/
 Server=/tospur.com/
 Server=/tot.name/
 Server=/totalacg.com/
+Server=/totoro.pub/
 Server=/tou360.com/
 Server=/tou70.com/
 Server=/toubang.tv/
@@ -59267,6 +59268,7 @@ Server=/wuzhenwic.org/
 Server=/wuzhicms.com/
 Server=/wuzhiwei.net/
 Server=/wuzhouqianzheng.com/
+Server=/wuzhuiso.com/
 Server=/wuziya.com/
 Server=/wuzongping.com/
 Server=/wvshare.com/
@@ -62076,7 +62078,6 @@ Server=/xyq.name/
 Server=/xyqb.com/
 Server=/xyqczy.com/
 Server=/xyqka.com/
-Server=/xyrdip.com/
 Server=/xyrtv.com/
 Server=/xysb.com/
 Server=/xyshu8.com/
@@ -62673,6 +62674,7 @@ Server=/yeoner.com/
 Server=/yeree.com/
 Server=/yerhu.com/
 Server=/yes-chinese.com/
+Server=/yes-med.net/
 Server=/yes515.com/
 Server=/yes58.net/
 Server=/yes88.com/
@@ -64230,7 +64232,6 @@ Server=/yscase.com/
 Server=/yscb.net/
 Server=/ysch.cc/
 Server=/yscq.com/
-Server=/ysdq.info/
 Server=/ysdui.com/
 Server=/yse360.cc/
 Server=/ysedu.com/

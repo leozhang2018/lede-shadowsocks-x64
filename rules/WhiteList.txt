@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-01-03
+## Last update: 2022-01-04
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -3150,6 +3150,7 @@
 .*\b360tpcdn\.com
 .*\b360u9\.com
 .*\b360uu\.com
+.*\b360vcloud\.com
 .*\b360vipshop\.com
 .*\b360vps\.com
 .*\b360vrzy\.com
@@ -3507,7 +3508,6 @@
 .*\b3dxy\.com
 .*\b3dzyw\.com
 .*\b3e\.net
-.*\b3edy\.com
 .*\b3eyes\.org
 .*\b3fang\.com
 .*\b3fantizi\.com
@@ -13769,6 +13769,7 @@
 .*\bcdfcn\.com
 .*\bcdfgsanya\.com
 .*\bcdfinger\.com
+.*\bcdfmembers\.com
 .*\bcdfortis\.com
 .*\bcdfytx\.com
 .*\bcdgdad\.com
@@ -47625,7 +47626,6 @@
 .*\brockyaero\.com
 .*\brockyenglish\.com
 .*\broclee\.com
-.*\brocsf\.org
 .*\broddypy\.com
 .*\broffar\.com
 .*\brohm-chip\.com
@@ -54260,6 +54260,7 @@
 .*\btospur\.com
 .*\btot\.name
 .*\btotalacg\.com
+.*\btotoro\.pub
 .*\btou360\.com
 .*\btou70\.com
 .*\btoubang\.tv
@@ -59267,6 +59268,7 @@
 .*\bwuzhicms\.com
 .*\bwuzhiwei\.net
 .*\bwuzhouqianzheng\.com
+.*\bwuzhuiso\.com
 .*\bwuziya\.com
 .*\bwuzongping\.com
 .*\bwvshare\.com
@@ -62076,7 +62078,6 @@
 .*\bxyqb\.com
 .*\bxyqczy\.com
 .*\bxyqka\.com
-.*\bxyrdip\.com
 .*\bxyrtv\.com
 .*\bxysb\.com
 .*\bxyshu8\.com
@@ -62673,6 +62674,7 @@
 .*\byeree\.com
 .*\byerhu\.com
 .*\byes-chinese\.com
+.*\byes-med\.net
 .*\byes515\.com
 .*\byes58\.net
 .*\byes88\.com
@@ -64230,7 +64232,6 @@
 .*\byscb\.net
 .*\bysch\.cc
 .*\byscq\.com
-.*\bysdq\.info
 .*\bysdui\.com
 .*\byse360\.cc
 .*\bysedu\.com
