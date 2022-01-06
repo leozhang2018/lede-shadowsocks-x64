@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-01-05
+## Last update: 2022-01-06
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -5563,7 +5563,6 @@
 .*\b6122\.net
 .*\b612345\.com
 .*\b612459\.com
-.*\b6132071\.com
 .*\b6132823\.com
 .*\b6132979\.com
 .*\b6137\.net
@@ -8430,7 +8429,6 @@
 .*\baidrive\.com
 .*\baiduoka\.com
 .*\baiduwenxue\.com
-.*\baidzs\.com
 .*\baiec-alliance\.com
 .*\baiegle\.com
 .*\baiemy\.com
@@ -13231,6 +13229,7 @@
 .*\bcallda\.com
 .*\bcallmewhy\.com
 .*\bcaloinfo\.com
+.*\bcalorietech\.com
 .*\bcalt\.com
 .*\bcalvinneo\.com
 .*\bcambm\.com
@@ -18957,6 +18956,7 @@
 .*\bdedezhuji\.com
 .*\bdeehai\.com
 .*\bdeemob\.com
+.*\bdeemos\.com
 .*\bdeepai\.com
 .*\bdeepano\.com
 .*\bdeepaso\.com
@@ -33023,6 +33023,7 @@
 .*\bjiatingdog\.com
 .*\bjiatui\.com
 .*\bjiatx\.com
+.*\bjiawentrans\.com
 .*\bjiawin\.com
 .*\bjiaxiaozhijia\.com
 .*\bjiaxichina\.net
@@ -40120,6 +40121,7 @@
 .*\bmenle\.com
 .*\bmenpiao\.com
 .*\bmenqiu\.com
+.*\bmenubarx\.app
 .*\bmenwee\.com
 .*\bmenww\.com
 .*\bmenwww\.com
@@ -40573,6 +40575,7 @@
 .*\bminhangshi\.com
 .*\bminhow\.com
 .*\bmini-audio\.com
+.*\bmini-program\.net
 .*\bmini5cn-1\.opera-mini\.net
 .*\bmini5cn\.opera-mini\.net
 .*\bminiadx\.com
@@ -44194,6 +44197,7 @@
 .*\bpdfdo\.com
 .*\bpdfdowell\.com
 .*\bpdfexpert\.cc
+.*\bpdffsy\.com
 .*\bpdffx\.com
 .*\bpdfjia\.com
 .*\bpdflibr\.com
@@ -47951,7 +47955,6 @@
 .*\bruvar\.com
 .*\bruvisas\.com
 .*\bruwen5\.com
-.*\bruxianke\.com
 .*\bruyahui\.com
 .*\bruyig\.com
 .*\bruyile\.com
@@ -52710,6 +52713,7 @@
 .*\btalkwithtrend\.com
 .*\btalkyun\.com
 .*\btaluo\.com
+.*\btalyscm\.com
 .*\btalzjsj\.com
 .*\btamaegis\.com
 .*\btamc8\.com
@@ -54255,6 +54259,7 @@
 .*\btouchxd\.com
 .*\btouclick\.com
 .*\btouduyu\.com
+.*\btoufu321\.com
 .*\btoughcoder\.net
 .*\btougub\.com
 .*\btouhou\.cd
@@ -65687,6 +65692,7 @@
 .*\bzgtuku\.com
 .*\bzgtxw\.com
 .*\bzgtygg\.com
+.*\bzgtzhb\.com
 .*\bzgui\.com
 .*\bzguonew\.com
 .*\bzgw\.com
