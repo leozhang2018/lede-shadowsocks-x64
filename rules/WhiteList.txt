@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-06-23
+## Last update: 2022-06-24
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -2987,6 +2987,7 @@
 .*\b360sides\.com
 .*\b360sok\.com
 .*\b360stamp\.com
+.*\b360tianma\.com
 .*\b360tong\.net
 .*\b360top\.com
 .*\b360totalsecurity\.com
@@ -4980,6 +4981,7 @@
 .*\b58wan\.com
 .*\b58wangwei\.com
 .*\b58wanwan\.com
+.*\b58woyou\.com
 .*\b58wzb\.com
 .*\b58xinrui\.com
 .*\b58xs\.com
@@ -11850,6 +11852,7 @@
 .*\bboleihg\.com
 .*\bbolejiang\.com
 .*\bbolelink\.com
+.*\bbolexiaozhao\.com
 .*\bboll\.me
 .*\bbolo\.me
 .*\bbolopp\.com
@@ -12473,6 +12476,7 @@
 .*\bc-canyin\.com
 .*\bc-cnc\.com
 .*\bc-ctrip\.com
+.*\bc-e-m\.com
 .*\bc-estbon\.com
 .*\bc-fol\.net
 .*\bc-lion\.com
@@ -15201,6 +15205,7 @@
 .*\bciif-expo\.com
 .*\bciiip\.com
 .*\bciimg\.com
+.*\bciji234\.com
 .*\bcijilu\.com
 .*\bciku5\.com
 .*\bcili001\.com
@@ -22674,6 +22679,7 @@
 .*\bflyfish8\.com
 .*\bflyfishx\.com
 .*\bflyfunny\.com
+.*\bflygo\.net
 .*\bflygon\.net
 .*\bflyguest\.com
 .*\bflyine\.net
@@ -26939,6 +26945,7 @@
 .*\bhf12345\.vip
 .*\bhf365\.com
 .*\bhf777\.com
+.*\bhfanss\.com
 .*\bhfbaogao\.com
 .*\bhfbeta\.com
 .*\bhfbz\.com
@@ -27703,6 +27710,7 @@
 .*\bhongyunlww\.com
 .*\bhongyunvren\.com
 .*\bhongze\.net
+.*\bhongzetai\.com
 .*\bhongzhoukan\.com
 .*\bhongztl\.com
 .*\bhonkaiimpact3\.com
@@ -28723,6 +28731,7 @@
 .*\bhuoshan\.club
 .*\bhuoshan\.com
 .*\bhuoshanimg\.com
+.*\bhuoshanlive\.com
 .*\bhuoshanstatic\.com
 .*\bhuoshansxy\.com
 .*\bhuoshanvod\.com
@@ -29901,6 +29910,7 @@
 .*\bihungyi\.com
 .*\bihuochaihe\.com
 .*\bihuoqiu\.com
+.*\bihuoshanlive\.com
 .*\bihuoyan\.com
 .*\bihuyi\.com
 .*\bihuzuan\.com
@@ -31928,6 +31938,7 @@
 .*\bjiawei\.xin
 .*\bjiawentrans\.com
 .*\bjiawin\.com
+.*\bjiaxianggame\.com
 .*\bjiaxiaozhijia\.com
 .*\bjiaxichina\.net
 .*\bjiaxin-industry\.com
@@ -32902,6 +32913,7 @@
 .*\bjoytrav\.com
 .*\bjoytraveller\.com
 .*\bjoyu\.com
+.*\bjoyuai\.com
 .*\bjoyulf\.com
 .*\bjoyuyx\.com
 .*\bjoywii\.net
@@ -33013,7 +33025,6 @@
 .*\bjs3\.org
 .*\bjs3n\.com
 .*\bjs53777\.com
-.*\bjs66649\.com
 .*\bjs7xc\.com
 .*\bjs8\.in
 .*\bjs811\.com
@@ -36066,6 +36077,7 @@
 .*\blgexam\.com
 .*\blghsrh\.com
 .*\blgimg\.com
+.*\blgmi\.com
 .*\blgmjg\.com
 .*\blgo100\.com
 .*\blgole\.com
@@ -38858,6 +38870,7 @@
 .*\bmetacd\.com
 .*\bmetal-min\.com
 .*\bmetalchina\.com
+.*\bmetasecurities\.com
 .*\bmeten\.com
 .*\bmeteni\.com
 .*\bmetenk12\.com
@@ -39494,6 +39507,7 @@
 .*\bmmgl\.net
 .*\bmmgogo\.com
 .*\bmmhktv\.com
+.*\bmmhygame\.com
 .*\bmmi-shanghai\.com
 .*\bmmia\.com
 .*\bmmim8\.com
@@ -42078,6 +42092,7 @@
 .*\booopn\.com
 .*\booppoo\.com
 .*\boouee\.com
+.*\boouyan\.com
 .*\booxx\.me
 .*\booxxc\.com
 .*\bop86\.net
@@ -44670,6 +44685,7 @@
 .*\bqiongming\.com
 .*\bqiongri\.com
 .*\bqipacao\.com
+.*\bqipai007\.com
 .*\bqipaifan\.com
 .*\bqipamaijia\.com
 .*\bqipeiren\.com
@@ -44778,6 +44794,7 @@
 .*\bqiyenet\.net
 .*\bqiyeshangpu\.com
 .*\bqiyeshangpu\.net
+.*\bqiyetong\.com
 .*\bqiyetuozhan\.com
 .*\bqiyeweixin\.com
 .*\bqiyewenhua\.net
@@ -45242,6 +45259,7 @@
 .*\bquba360\.com
 .*\bqubaike\.com
 .*\bqubaishu\.com
+.*\bqubaobei\.com
 .*\bqucai\.com
 .*\bqucaiad\.com
 .*\bqucaidd\.com
@@ -46341,6 +46359,7 @@
 .*\brtxuc\.com
 .*\bru4\.com
 .*\bruaimi\.com
+.*\bruan8\.com
 .*\bruancan\.com
 .*\bruandy\.com
 .*\bruanfujia\.com
@@ -47634,6 +47653,7 @@
 .*\bshanshoufu\.com
 .*\bshantoumama\.com
 .*\bshanweinews\.net
+.*\bshanweiyule\.com
 .*\bshanxicloud\.net
 .*\bshanxidiy\.com
 .*\bshanximuseum\.com
@@ -52402,6 +52422,7 @@
 .*\btohic\.net
 .*\btohkalove\.com
 .*\btohosting\.com
+.*\btohosting\.net
 .*\btohours\.com
 .*\btohuo\.com
 .*\btoidea\.com
@@ -56838,6 +56859,7 @@
 .*\bwnzhbb\.com
 .*\bwnzhuishu\.com
 .*\bwnzy\.net
+.*\bwo-smart\.com
 .*\bwo-xa\.com
 .*\bwo113\.net
 .*\bwo116114\.com
@@ -58944,6 +58966,7 @@
 .*\bxingumin\.net
 .*\bxingxing\.com
 .*\bxingxingzu\.com
+.*\bxingye\.work
 .*\bxingyi\.com
 .*\bxingyigz\.com
 .*\bxingyongli\.com
