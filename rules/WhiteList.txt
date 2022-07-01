@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-06-30
+## Last update: 2022-07-01
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -7444,6 +7444,7 @@
 .*\bab95569\.com
 .*\babab\.com
 .*\babacaipu\.com
+.*\babakua\.com
 .*\babang\.com
 .*\babardeen-online\.com
 .*\babbooa\.com
@@ -16557,6 +16558,7 @@
 .*\bcoship\.com
 .*\bcosize\.com
 .*\bcosmoplat\.com
+.*\bcosmos-21\.com
 .*\bcosoar\.com
 .*\bcosplay8\.com
 .*\bcosplayla\.com
@@ -19367,6 +19369,7 @@
 .*\bdongxuyitai\.com
 .*\bdongyaods\.com
 .*\bdongyin\.net
+.*\bdongyun\.biz
 .*\bdongzhougroup\.com
 .*\bdongzhuoyao\.com
 .*\bdonhonet\.net
@@ -25281,6 +25284,7 @@
 .*\bgycode\.com
 .*\bgydongli\.com
 .*\bgyersf\.com
+.*\bgygl\.com
 .*\bgyguohua\.com
 .*\bgyhj\.org
 .*\bgyip\.net
@@ -29199,6 +29203,7 @@
 .*\biamjzs\.com
 .*\biamle\.com
 .*\biamlintao\.com
+.*\biamnow\.net
 .*\biamshuaidi\.com
 .*\biamsujie\.com
 .*\biamtxt\.com
@@ -32611,6 +32616,7 @@
 .*\bjkgood\.com
 .*\bjkidc\.com
 .*\bjkimg\.net
+.*\bjkjkjiankang\.com
 .*\bjkjzt\.com
 .*\bjkpan\.cc
 .*\bjkpj\.com
@@ -37448,6 +37454,7 @@
 .*\blunar2013\.com
 .*\blunchong\.com
 .*\blundao\.pub
+.*\bluneciel\.com
 .*\blunkuokeji\.com
 .*\blunwenchachong\.org
 .*\blunwendj\.com
@@ -55233,7 +55240,6 @@
 .*\bwanshifu\.com
 .*\bwanshitong\.com
 .*\bwanshouyou\.net
-.*\bwanshutech\.com
 .*\bwanshuyun\.com
 .*\bwansongpu\.com
 .*\bwantattoo\.com
@@ -58801,7 +58807,6 @@
 .*\bxindingwealth\.com
 .*\bxindns\.com
 .*\bxindns\.mobi
-.*\bxindon\.com
 .*\bxindong\.com
 .*\bxinduihuan\.com
 .*\bxinduo\.com
@@ -59661,6 +59666,7 @@
 .*\bxsstomy\.com
 .*\bxssz\.net
 .*\bxsteach\.com
+.*\bxsthmy\.com
 .*\bxsti\.net
 .*\bxstqj\.com
 .*\bxstt5\.com
@@ -60072,6 +60078,7 @@
 .*\bxxsywxj\.com
 .*\bxxtaotao\.com
 .*\bxxtiao\.com
+.*\bxxtswzedu\.com
 .*\bxxwenda\.com
 .*\bxxwolo\.com
 .*\bxxxfeng\.com
@@ -65728,7 +65735,6 @@
 .*\bzxdb999\.com
 .*\bzxdoo\.com
 .*\bzxdu\.net
-.*\bzxdyo\.com
 .*\bzxdyw\.com
 .*\bzxe-china\.com
 .*\bzxerp\.com
