@@ -2,7 +2,7 @@
 ## China mainland domains
 ## Get the latest database: https://github.com/xinhugo/Free-List/blob/master/WhiteList.txt
 ## Report an issue: https://github.com/xinhugo/Free-List/issues
-## Last update: 2022-08-18
+## Last update: 2022-08-19
 
 .*\b0-100\.com
 .*\b0-6\.com
@@ -14779,6 +14779,7 @@
 .*\bchongwuxiang\.com
 .*\bchongya\.com
 .*\bchongyacdn\.com
+.*\bchongyejia\.com
 .*\bchongyitang\.org
 .*\bchongzhi\.com
 .*\bchonka\.com
@@ -30906,6 +30907,7 @@
 .*\biyiyun\.com
 .*\biyocloud\.com
 .*\biyong\.com
+.*\biyongpdf\.com
 .*\biyooread\.com
 .*\biyoowi\.com
 .*\biyoucai\.com
@@ -36917,6 +36919,7 @@
 .*\blpetl\.com
 .*\blpllol\.com
 .*\blply\.net
+.*\blppoll\.com
 .*\blppz\.com
 .*\blpq1688\.com
 .*\blprcx\.com
@@ -40127,6 +40130,7 @@
 .*\bn3293\.com
 .*\bn3ko\.co
 .*\bn3sd\.com
+.*\bn4115\.com
 .*\bn423\.com
 .*\bn459\.com
 .*\bn5878\.com
@@ -44400,7 +44404,6 @@
 .*\bqjrc\.com
 .*\bqjren\.com
 .*\bqjsb88\.com
-.*\bqjshe\.com
 .*\bqjsmartech\.com
 .*\bqjtrip\.com
 .*\bqjwhzs\.com

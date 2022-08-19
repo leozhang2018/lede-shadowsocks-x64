@@ -1,7 +1,7 @@
 [Local Hosts]
 ## China mainland domains
 ## Source: https://github.com/felixonmars/dnsmasq-china-list
-## Last update: 2022-08-18
+## Last update: 2022-08-19
 
 
 Server=/0-100.com/
@@ -14779,6 +14779,7 @@ Server=/chongwujiaoyi.com/
 Server=/chongwuxiang.com/
 Server=/chongya.com/
 Server=/chongyacdn.com/
+Server=/chongyejia.com/
 Server=/chongyitang.org/
 Server=/chongzhi.com/
 Server=/chonka.com/
@@ -30906,6 +30907,7 @@ Server=/iyishengyuan.com/
 Server=/iyiyun.com/
 Server=/iyocloud.com/
 Server=/iyong.com/
+Server=/iyongpdf.com/
 Server=/iyooread.com/
 Server=/iyoowi.com/
 Server=/iyoucai.com/
@@ -36917,6 +36919,7 @@ Server=/lpcheng.com/
 Server=/lpetl.com/
 Server=/lpllol.com/
 Server=/lply.net/
+Server=/lppoll.com/
 Server=/lppz.com/
 Server=/lpq1688.com/
 Server=/lprcx.com/
@@ -40127,6 +40130,7 @@ Server=/n21.cc/
 Server=/n3293.com/
 Server=/n3ko.co/
 Server=/n3sd.com/
+Server=/n4115.com/
 Server=/n423.com/
 Server=/n459.com/
 Server=/n5878.com/
@@ -44400,7 +44404,6 @@ Server=/qjmotor.com/
 Server=/qjrc.com/
 Server=/qjren.com/
 Server=/qjsb88.com/
-Server=/qjshe.com/
 Server=/qjsmartech.com/
 Server=/qjtrip.com/
 Server=/qjwhzs.com/
