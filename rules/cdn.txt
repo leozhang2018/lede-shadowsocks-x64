@@ -1754,6 +1754,7 @@
 195155.com
 195855.com
 19687.com
+197.com
 197946.com
 197c.com
 198254.com
@@ -8371,6 +8372,7 @@ aliyunddos1028.com
 aliyunddos1029.com
 aliyunddos1030.com
 aliyundrive.com
+aliyundrive.net
 aliyunduncc.com
 aliyundunwaf.com
 aliyunedu.net
@@ -10306,6 +10308,7 @@ bdfkb.com
 bdfzcd.net
 bdfzgz.net
 bdgamelive.com
+bdgp.cc
 bdgslb.com
 bdimg.com
 bdinfo.net
@@ -10514,6 +10517,7 @@ benhu.cc
 benhu01.com
 beniao.com
 benimg.com
+benjamin.fun
 benkejieye.com
 benkua.com
 benlai.com
@@ -11003,7 +11007,6 @@ birdol.com
 birdpush.com
 bisairi.com
 bisenet.com
-bishe1234.com
 bishen.ink
 bishengoffice.com
 bisheziliao.com
@@ -17875,6 +17878,7 @@ dc-cn.com
 dcarapi.com
 dcarimg.com
 dcarstatic.com
+dcarvod.com
 dcb123.com
 dcdapp.com
 dcement.com
@@ -19447,7 +19451,6 @@ dshjfh.com
 dshrc.com
 dskb.co
 dskystudio.com
-dslp168.com
 dsmyiyuan.com
 dsmzyy.com
 dsmzyy120.com
@@ -22596,6 +22599,7 @@ fqapps.com
 fqgj.net
 fqis.xin
 fqnovel.com
+fqnovelpic.com
 fqnovelstatic.com
 fqpai.com
 fqsszx.com
@@ -27806,6 +27810,7 @@ htt5.com
 httingshu.com
 httpcanary.com
 httpcn.com
+httpdns.pro
 hturl.cc
 htuwenming.com
 htvaas.com
@@ -34419,6 +34424,7 @@ ksapisrv.com
 ksaxx.com
 ksbao.cc
 ksbao.com
+ksc-test.com
 kscac.com
 kscdns.com
 ksdkcks.com
@@ -34755,6 +34761,7 @@ kuwew.com
 kuwuu.com
 kuxiaoji.com
 kuxuexi.com
+kuy8.com
 kuyh.com
 kuyibu.com
 kuyin123.com
@@ -40424,6 +40431,7 @@ nerocn.com
 nesbbs.com
 nestgene.com
 nestlechinese.com
+nestlot.com
 net-add.com
 net-swift.com
 net0516.com
@@ -41835,6 +41843,7 @@ oshoplive.com
 oshwhub.com
 osjiaju.com
 osk-clean.com
+oskwai.com
 osmsg.com
 osmy.net
 osnt.wang
@@ -44060,6 +44069,7 @@ qilang.net
 qilanxiaozhu.co
 qilanxiaozhu.net
 qilecms.com
+qiliaokj.com
 qilinchess.com
 qilindao.com
 qiling.org
@@ -48710,6 +48720,7 @@ smbinn.com
 smbxw.com
 smc18.com
 smc3s.com
+smcic.net
 smd88.com
 smdcn.net
 smdiban.net
@@ -49197,7 +49208,6 @@ soyohui.com
 soyoung.com
 soyouso.com
 soyunion.com
-soyunpan.com
 sozdata.com
 sozhen.com
 sp.cc
@@ -50465,6 +50475,7 @@ szvi-bo.com
 szwb.com
 szwblm.com
 szwego.com
+szweijubao.com
 szweita.com
 szwfb.com
 szwfzs.com
@@ -54242,6 +54253,7 @@ vokop.com
 vol.moe
 volccdn.com
 volceapplog.com
+volces.com
 volcfcdndvs.com
 volcgslb.com
 volcgtm.com
@@ -55549,6 +55561,7 @@ westpac.group
 westsecu.com
 westsummitcap.com
 wesure100.com
+wetest.net
 wetherm.com
 weti.me
 wetogame.com
@@ -57690,6 +57703,7 @@ xianba.net
 xianbai.me
 xianbao.net
 xianbdj.com
+xianbeikeji.com
 xianbey.com
 xianchengyou.com
 xianchihuo.net
@@ -58703,6 +58717,7 @@ xixiaoyou.com
 xixiarc.com
 xixibobo.com
 xixiclothing.com
+xixidoudizhu.com
 xixik.com
 xixik.net
 xixin123.com
@@ -59564,6 +59579,7 @@ xxnmcd.com
 xxoojoke.com
 xxorg.com
 xxpie.com
+xxpkg.com
 xxptcs.com
 xxqb5200.com
 xxqipai.com
@@ -61682,7 +61698,6 @@ yqmh.com
 yqphh.com
 yqptzx.com
 yqsbz.com
-yqsns.com
 yqtc.com
 yqtxzm.com
 yqwyx.xyz
